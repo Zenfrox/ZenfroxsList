@@ -186,11 +186,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "party",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "alphabeavers",
 		"price": 600,
 		"karmatype": "Bad"
@@ -202,11 +197,6 @@
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "dropraid",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
@@ -247,7 +237,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
@@ -296,5 +286,5 @@
 		"karmatype": "Bad"
 	}
 	],
-	"total": 59
+	"total": 57
 }
