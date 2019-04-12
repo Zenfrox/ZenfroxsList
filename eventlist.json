@@ -1,290 +1,5790 @@
 {
-	"incitems" : [
+	"items" : [
 	{
-		"abr": "clearweather",
-		"price": 400,
-		"karmatype": "Good"
+		"abr": ""FullMuffaloon"Rug",
+		"price": 842,
+		"defname": "MedTimes_Rug_Muffalo"
 	},
 	{
-		"abr": "rain",
-		"price": 350,
-		"karmatype": "Good"
+		"abr": ""RevengeCat"",
+		"price": 203,
+		"defname": "MedTimes_RevengeCat"
 	},
 	{
-		"abr": "foggyrain",
-		"price": 300,
-		"karmatype": "Neutral"
+		"abr": ""TheGentleman"",
+		"price": 203,
+		"defname": "MedTimes_Gentleman"
 	},
 	{
-		"abr": "clearweather",
-		"price": 250,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "drythunderstorm",
-		"price": 450,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "snowgentle",
-		"price": 350,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "snowhard",
-		"price": 450,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "fog",
-		"price": 300,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "heatwave",
-		"price": 750,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "flashstorm",
-		"price": 400,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "coldsnap",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "solarflare",
-		"price": 500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "toxicfallout",
-		"price": 4200,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "volcanicwinter",
-		"price": 2600,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "eclipse",
-		"price": 450,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "aurora",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "blight",
+		"abr": ""Tribals"Rug",
 		"price": 700,
-		"karmatype": "Bad"
+		"defname": "MedTimes_Rug_Tribal"
 	},
 	{
-		"abr": "refugeechased",
+		"abr": "AdobeBricks",
+		"price": 1,
+		"defname": "MedTimes_Resource_AdobeBricks"
+	},
+	{
+		"abr": "advancedcomponent",
+		"price": 333,
+		"defname": "ComponentSpacer"
+	},
+	{
+		"abr": "AdvancedTriggerMechanism",
+		"price": 167,
+		"defname": "MedTimes_AdvancedTriggerMechanism"
+	},
+	{
+		"abr": "aerofleet",
+		"price": 200,
+		"defname": "AA_Aerofleet"
+	},
+	{
+		"abr": "aerofleetfur",
+		"price": 5,
+		"defname": "AA_Leather_Aerofleet"
+	},
+	{
+		"abr": "aerofleetmeat",
+		"price": 3,
+		"defname": "AA_AerofleetMeat"
+	},
+	{
+		"abr": "Aerofleetmeat",
+		"price": 3,
+		"defname": "Meat_AA_Aerofleet"
+	},
+	{
+		"abr": "agavefruit",
+		"price": 2,
+		"defname": "RawAgave"
+	},
+	{
+		"abr": "alpaca",
+		"price": 583,
+		"defname": "Alpaca"
+	},
+	{
+		"abr": "Alpacameat",
+		"price": 3,
+		"defname": "Meat_Alpaca"
+	},
+	{
+		"abr": "alpacawool",
+		"price": 4,
+		"defname": "WoolAlpaca"
+	},
+	{
+		"abr": "alphabeaver",
+		"price": 417,
+		"defname": "Alphabeaver"
+	},
+	{
+		"abr": "Alphabeavermeat",
+		"price": 3,
+		"defname": "Meat_Alphabeaver"
+	},
+	{
+		"abr": "ambrosia",
+		"price": 25,
+		"defname": "Ambrosia"
+	},
+	{
+		"abr": "ancientcryptosleepcasket",
+		"price": 575,
+		"defname": "AncientCryptosleepCasket"
+	},
+	{
+		"abr": "AncientMail",
+		"price": 3583,
+		"defname": "AncientMail"
+	},
+	{
+		"abr": "animalbed",
+		"price": 136,
+		"defname": "AnimalBed"
+	},
+	{
+		"abr": "animalsleepingbox",
+		"price": 84,
+		"defname": "AnimalSleepingBox"
+	},
+	{
+		"abr": "animusvox",
+		"price": 500,
+		"defname": "AA_AnimusVox"
+	},
+	{
+		"abr": "Animusvoxmeat",
+		"price": 3,
+		"defname": "Meat_AA_AnimusVox"
+	},
+	{
+		"abr": "Answeller(Art)",
+		"price": 8667,
+		"defname": "MedTimes_Melee_SwordAnsweller_Art"
+	},
+	{
+		"abr": "Answeller(Leg)",
+		"price": 14500,
+		"defname": "MedTimes_Melee_SwordAnsweller_Leg"
+	},
+	{
+		"abr": "Arbalest",
+		"price": 458,
+		"defname": "MedTimes_Ranged_Arbalest"
+	},
+	{
+		"abr": "Arbalest(Nan)",
+		"price": 6300,
+		"defname": "MedTimes_Ranged_Arbalest_Nan"
+	},
+	{
+		"abr": "ArcaneGemofAcceleration",
 		"price": 650,
-		"karmatype": "Neutral"
+		"defname": "TM_EStone_coolDown"
 	},
 	{
-		"abr": "animaltame",
-		"price": 150,
-		"karmatype": "Good"
+		"abr": "ArcaneGemofConservation",
+		"price": 650,
+		"defname": "TM_EStone_mpCost"
 	},
 	{
-		"abr": "resourcepodcrash",
-		"price": 300,
-		"karmatype": "Good"
+		"abr": "ArcaneGemofForce",
+		"price": 650,
+		"defname": "TM_EStone_arcaneDmg"
 	},
 	{
-		"abr": "transportpodcrash",
+		"abr": "ArcaneGemofHolding",
+		"price": 650,
+		"defname": "TM_EStone_maxMP"
+	},
+	{
+		"abr": "ArcaneGemofLearning",
+		"price": 650,
+		"defname": "TM_EStone_xpGain"
+	},
+	{
+		"abr": "ArcaneGemofRegeneration",
+		"price": 650,
+		"defname": "TM_EStone_mpRegenRate"
+	},
+	{
+		"abr": "ArcaneGemofResistance",
+		"price": 650,
+		"defname": "TM_EStone_arcaneRes"
+	},
+	{
+		"abr": "ArcaneGemofWonder",
+		"price": 4417,
+		"defname": "TM_EStone_wonder"
+	},
+	{
+		"abr": "ArcaneHood",
+		"price": 1208,
+		"defname": "ArcaneHood"
+	},
+	{
+		"abr": "ArcaneScript:???",
+		"price": 2500,
+		"defname": "BookOfQuestion"
+	},
+	{
+		"abr": "ArcaneScript:Bard",
+		"price": 5500,
+		"defname": "BookOfBard"
+	},
+	{
+		"abr": "ArcaneScript:Demonology",
+		"price": 5500,
+		"defname": "BookOfDemons"
+	},
+	{
+		"abr": "ArcaneScript:Earth",
+		"price": 5500,
+		"defname": "BookOfEarth"
+	},
+	{
+		"abr": "ArcaneScript:Enchanter",
+		"price": 5500,
+		"defname": "BookOfEnchanter"
+	},
+	{
+		"abr": "ArcaneScript:Fire",
+		"price": 5500,
+		"defname": "BookOfInnerFire"
+	},
+	{
+		"abr": "ArcaneScript:Hemomancy",
+		"price": 5500,
+		"defname": "BookOfHemomancy"
+	},
+	{
+		"abr": "ArcaneScript:Lightning",
+		"price": 5500,
+		"defname": "BookOfStormBorn"
+	},
+	{
+		"abr": "ArcaneScript:Nature",
+		"price": 5500,
+		"defname": "BookOfDruid"
+	},
+	{
+		"abr": "ArcaneScript:Necromancer",
+		"price": 5500,
+		"defname": "BookOfNecromancer"
+	},
+	{
+		"abr": "ArcaneScript:Power",
+		"price": 5500,
+		"defname": "BookOfArcanist"
+	},
+	{
+		"abr": "ArcaneScript:Priest",
+		"price": 5500,
+		"defname": "BookOfPriest"
+	},
+	{
+		"abr": "ArcaneScript:Summoning",
+		"price": 5500,
+		"defname": "BookOfSummoner"
+	},
+	{
+		"abr": "ArcaneScript:Technomancy",
+		"price": 5500,
+		"defname": "BookOfMagitech"
+	},
+	{
+		"abr": "ArcaneScript:Water",
+		"price": 5500,
+		"defname": "BookOfHeartOfFrost"
+	},
+	{
+		"abr": "ArcaneSpell:Gateway",
+		"price": 4767,
+		"defname": "SpellOf_FoldReality"
+	},
+	{
+		"abr": "Archer'sBracers",
+		"price": 103,
+		"defname": "MedTimes_Bracer_Archer"
+	},
+	{
+		"abr": "Archer'sBracers(Nan)",
+		"price": 5942,
+		"defname": "MedTimes_Bracer_Archer_Nan"
+	},
+	{
+		"abr": "arcticfox",
+		"price": 333,
+		"defname": "Fox_Arctic"
+	},
+	{
+		"abr": "arcticlion",
+		"price": 1000,
+		"defname": "AA_ArcticLion"
+	},
+	{
+		"abr": "arcticlionfur",
+		"price": 6,
+		"defname": "AA_ArcticLion_Leather"
+	},
+	{
+		"abr": "Arcticlionmeat",
+		"price": 3,
+		"defname": "Meat_AA_ArcticLion"
+	},
+	{
+		"abr": "arcticwolf",
+		"price": 583,
+		"defname": "Wolf_Arctic"
+	},
+	{
+		"abr": "arm",
+		"price": 1333,
+		"defname": "Arm"
+	},
+	{
+		"abr": "armchair",
+		"price": 450,
+		"defname": "Armchair"
+	},
+	{
+		"abr": "ArmingCap",
+		"price": 153,
+		"defname": "MedTimes_Headgear_ArmingCap"
+	},
+	{
+		"abr": "ArmingSword",
+		"price": 330,
+		"defname": "MedTimes_Melee_SwordArming"
+	},
+	{
+		"abr": "ArmingSword(Nan)",
+		"price": 6167,
+		"defname": "MedTimes_Melee_SwordArming_Nan"
+	},
+	{
+		"abr": "ArmoroftheValiant",
+		"price": 4000,
+		"defname": "RoyalArmor"
+	},
+	{
+		"abr": "ArtisanStation",
+		"price": 306,
+		"defname": "MedTimes_ArtisanStation"
+	},
+	{
+		"abr": "Ballista",
+		"price": 323,
+		"defname": "MedTimes_Turret_Ballista"
+	},
+	{
+		"abr": "Bandit'sHammer",
+		"price": 328,
+		"defname": "MedTimes_Melee_HammerBandit"
+	},
+	{
+		"abr": "Bandit'sHammer(Nan)",
+		"price": 6167,
+		"defname": "MedTimes_Melee_HammerBandit_Nan"
+	},
+	{
+		"abr": "barbslinger",
+		"price": 833,
+		"defname": "AA_Barbslinger"
+	},
+	{
+		"abr": "BardSpell:BattleHymn",
+		"price": 2750,
+		"defname": "SpellOf_BattleHymn"
+	},
+	{
+		"abr": "Bascinet",
+		"price": 129,
+		"defname": "MedTimes_Helm_Bascinet"
+	},
+	{
+		"abr": "Bascinet(Nan)",
+		"price": 5967,
+		"defname": "MedTimes_Helm_Bascinet_Nan"
+	},
+	{
+		"abr": "basicmanagerdesk",
+		"price": 262,
+		"defname": "FM_BasicManagerStation"
+	},
+	{
+		"abr": "BattleAxe",
+		"price": 475,
+		"defname": "MedTimes_Melee_BattleAxe"
+	},
+	{
+		"abr": "BattleAxe(Nan)",
+		"price": 6317,
+		"defname": "MedTimes_Melee_BattleAxe_Nan"
+	},
+	{
+		"abr": "bearmeat",
+		"price": 3,
+		"defname": "Meat_Bear_Grizzly"
+	},
+	{
+		"abr": "BeardedBattleAxe",
+		"price": 433,
+		"defname": "MedTimes_Melee_AxeBearded"
+	},
+	{
+		"abr": "BeardedBattleAxe(Nan)",
+		"price": 6275,
+		"defname": "MedTimes_Melee_AxeBearded_Nan"
+	},
+	{
+		"abr": "bearskin",
+		"price": 6,
+		"defname": "Leather_Bear"
+	},
+	{
+		"abr": "bed",
+		"price": 155,
+		"defname": "Bed"
+	},
+	{
+		"abr": "bedbug",
+		"price": 167,
+		"defname": "AA_BedBug"
+	},
+	{
+		"abr": "bedbugegg(fert.)",
+		"price": 15,
+		"defname": "AA_BedBugEggFertilized"
+	},
+	{
+		"abr": "bedbugegg(unfert.)",
+		"price": 15,
+		"defname": "AA_BedBugEggUnfertilized"
+	},
+	{
+		"abr": "bedroll",
+		"price": 137,
+		"defname": "Bedroll"
+	},
+	{
+		"abr": "beef",
+		"price": 3,
+		"defname": "Meat_Cow"
+	},
+	{
+		"abr": "beer",
+		"price": 20,
+		"defname": "Beer"
+	},
+	{
+		"abr": "berries",
+		"price": 2,
+		"defname": "RawBerries"
+	},
+	{
+		"abr": "Berserker'sChain",
+		"price": 70,
+		"defname": "MedTimes_Berserker"
+	},
+	{
+		"abr": "billiardstable",
 		"price": 600,
-		"karmatype": "Good"
+		"defname": "BilliardsTable"
 	},
 	{
-		"abr": "tradercaravan",
-		"price": 275,
-		"karmatype": "Good"
+		"abr": "birdmeat",
+		"price": 3,
+		"defname": "Meat_Cassowary"
 	},
 	{
-		"abr": "orbitaltraderarrival",
+		"abr": "birdskin",
+		"price": 3,
+		"defname": "Leather_Bird"
+	},
+	{
+		"abr": "Blackgoatmeat",
+		"price": 3,
+		"defname": "Meat_Cults_BlackGoat"
+	},
+	{
+		"abr": "blackgoathide",
+		"price": 3,
+		"defname": "CH_Leather_BlackGoathide"
+	},
+	{
+		"abr": "blackhiveinsectjelly",
+		"price": 15,
+		"defname": "AA_BlackInsectJelly"
+	},
+	{
+		"abr": "blackinsectchitin",
+		"price": 7,
+		"defname": "Leather_BlackChitin"
+	},
+	{
+		"abr": "blackscarab",
+		"price": 250,
+		"defname": "AA_BlackScarab"
+	},
+	{
+		"abr": "blackspelopede",
+		"price": 417,
+		"defname": "AA_BlackSpelopede"
+	},
+	{
+		"abr": "Blackboard",
 		"price": 350,
-		"karmatype": "Good"
+		"defname": "Blackboard"
 	},
 	{
-		"abr": "genderswap",
-		"price": 150,
-		"karmatype": "Neutral"
+		"abr": "Blackheart(Art)",
+		"price": 6333,
+		"defname": "MedTimes_Melee_KnifeBlackheart_Art"
 	},
 	{
-		"abr": "inspiration",
-		"price": 150,
-		"karmatype": "Good"
+		"abr": "Blackheart(Leg)",
+		"price": 12167,
+		"defname": "MedTimes_Melee_KnifeBlackheart_Leg"
 	},
 	{
-		"abr": "meteor",
-		"price": 150,
-		"karmatype": "Neutral"
+		"abr": "blacksmithanvilandforge",
+		"price": 442,
+		"defname": "LotR_TableSmithy"
 	},
 	{
-		"abr": "madanimal",
-		"price": 600,
-		"karmatype": "Bad"
+		"abr": "Blacksmith'sForge",
+		"price": 231,
+		"defname": "MedTimes_BlacksmithForge"
 	},
 	{
-		"abr": "ambrosiasprout",
-		"price": 150,
-		"karmatype": "Good"
+		"abr": "Blacksmith'sSmelter",
+		"price": 253,
+		"defname": "MedTimes_FueledSmelter"
 	},
 	{
-		"abr": "herdmigration",
-		"price": 400,
-		"karmatype": "Good"
+		"abr": "blackspider",
+		"price": 917,
+		"defname": "AA_BlackSpider"
 	},
 	{
-		"abr": "farmanimals",
-		"price": 200,
-		"karmatype": "Good"
+		"abr": "blizzarisk",
+		"price": 833,
+		"defname": "AA_Blizzarisk"
 	},
 	{
-		"abr": "wildman",
-		"price": 300,
-		"karmatype": "Good"
+		"abr": "blizzariskclutchmother",
+		"price": 1500,
+		"defname": "AA_BlizzariskClutchMother"
 	},
 	{
-		"abr": "rarethrumbos",
+		"abr": "blizzariskegg(fert.)",
+		"price": 15,
+		"defname": "AA_BlizzariskEggFertilized"
+	},
+	{
+		"abr": "blizzariskegg(unfert.)",
+		"price": 15,
+		"defname": "AA_BlizzariskEggUnfertilized"
+	},
+	{
+		"abr": "BloodBlade(Leg)",
+		"price": 13500,
+		"defname": "MedTimes_Melee_AxeBlood_Leg"
+	},
+	{
+		"abr": "BloodMageSpell:BloodMoon",
+		"price": 3750,
+		"defname": "SpellOf_BloodMoon"
+	},
+	{
+		"abr": "BlueTabard",
+		"price": 173,
+		"defname": "MedTimes_ShellBody_TabardBlue"
+	},
+	{
+		"abr": "bluefur",
+		"price": 4,
+		"defname": "Leather_Bluefur"
+	},
+	{
+		"abr": "BoarSpear",
+		"price": 243,
+		"defname": "MedTimes_Melee_BoarSpear"
+	},
+	{
+		"abr": "BoarSpear(Nan)",
+		"price": 6083,
+		"defname": "MedTimes_Melee_BoarSpear_Nan"
+	},
+	{
+		"abr": "bone",
+		"price": 2,
+		"defname": "BoneItem"
+	},
+	{
+		"abr": "bonearmor",
+		"price": 287,
+		"defname": "Sihv_Apparel_BoneArmor"
+	},
+	{
+		"abr": "boneash",
+		"price": 4,
+		"defname": "BoneChina"
+	},
+	{
+		"abr": "bonechair",
+		"price": 508,
+		"defname": "BoneChair"
+	},
+	{
+		"abr": "bonemarrow",
+		"price": 2,
+		"defname": "ROMB_Marrow"
+	},
+	{
+		"abr": "bonecrete",
+		"price": 3,
+		"defname": "Bonecrete"
+	},
+	{
+		"abr": "book",
+		"price": 38,
+		"defname": "Jecrell_Book"
+	},
+	{
+		"abr": "boomalope",
+		"price": 583,
+		"defname": "Boomalope"
+	},
+	{
+		"abr": "Boomalopemeat",
+		"price": 3,
+		"defname": "Meat_Boomalope"
+	},
+	{
+		"abr": "boomrat",
+		"price": 167,
+		"defname": "Boomrat"
+	},
+	{
+		"abr": "Boomratmeat",
+		"price": 3,
+		"defname": "Meat_Boomrat"
+	},
+	{
+		"abr": "bouldermit",
+		"price": 583,
+		"defname": "AA_BoulderMit"
+	},
+	{
+		"abr": "Bouldermitmeat",
+		"price": 3,
+		"defname": "Meat_AA_BoulderMit"
+	},
+	{
+		"abr": "bowlerhat",
+		"price": 77,
+		"defname": "Apparel_BowlerHat"
+	},
+	{
+		"abr": "BracersofDefense",
+		"price": 1483,
+		"defname": "TM_Artifact_BracersOfDefense"
+	},
+	{
+		"abr": "BracersofDeflection",
+		"price": 1558,
+		"defname": "TM_Artifact_BracersOfDeflection"
+	},
+	{
+		"abr": "BracersofthePacifist",
+		"price": 6375,
+		"defname": "TM_Artifact_BracersOfThePacifist"
+	},
+	{
+		"abr": "Brazier",
+		"price": 70,
+		"defname": "MedTimes_Brazier"
+	},
+	{
+		"abr": "brewery",
+		"price": 342,
+		"defname": "Brewery"
+	},
+	{
+		"abr": "Brigandine",
+		"price": 326,
+		"defname": "MedTimes_Brigandine"
+	},
+	{
+		"abr": "Brigandine(Nan)",
+		"price": 6167,
+		"defname": "MedTimes_Brigandine_Nan"
+	},
+	{
+		"abr": "bumbledrone",
+		"price": 583,
+		"defname": "AA_Bumbledrone"
+	},
+	{
+		"abr": "bumbledroneegg(fert.)",
+		"price": 10,
+		"defname": "AA_BumbledroneQueenEggFertilized"
+	},
+	{
+		"abr": "bumbledronequeen",
+		"price": 750,
+		"defname": "AA_BumbledroneQueen"
+	},
+	{
+		"abr": "butchertable",
+		"price": 302,
+		"defname": "TableButcher"
+	},
+	{
+		"abr": "button-downshirt",
+		"price": 166,
+		"defname": "Apparel_CollarShirt"
+	},
+	{
+		"abr": "byakheechitin",
+		"price": 3,
+		"defname": "CH_Leather_Byakhee"
+	},
+	{
+		"abr": "cactipine",
+		"price": 167,
+		"defname": "AA_Cactipine"
+	},
+	{
+		"abr": "Cactipinemeat",
+		"price": 3,
+		"defname": "Meat_AA_Cactipine"
+	},
+	{
+		"abr": "cactusmeat",
+		"price": 2,
+		"defname": "AA_CactusMeat"
+	},
+	{
+		"abr": "Caladbog(Art)",
+		"price": 7167,
+		"defname": "MedTimes_Melee_SwordCaladbog_Art"
+	},
+	{
+		"abr": "Caladbog(Leg)",
+		"price": 13000,
+		"defname": "MedTimes_Melee_SwordCaladbog_Leg"
+	},
+	{
+		"abr": "calciumpolymer",
+		"price": 2,
+		"defname": "BonePlastic"
+	},
+	{
+		"abr": "camelhair",
+		"price": 4,
+		"defname": "WoolCamel"
+	},
+	{
+		"abr": "camelhide",
+		"price": 4,
+		"defname": "Leather_Camel"
+	},
+	{
+		"abr": "campfire",
+		"price": 41,
+		"defname": "Campfire"
+	},
+	{
+		"abr": "capybara",
+		"price": 250,
+		"defname": "Capybara"
+	},
+	{
+		"abr": "Capybarameat",
+		"price": 3,
+		"defname": "Meat_Capybara"
+	},
+	{
+		"abr": "caribou",
 		"price": 500,
-		"karmatype": "Good"
+		"defname": "Caribou"
 	},
 	{
-		"abr": "shipchunkdrop",
-		"price": 300,
-		"karmatype": "Good"
+		"abr": "Cariboumeat",
+		"price": 3,
+		"defname": "Meat_Caribou"
 	},
 	{
-		"abr": "travelergroup",
-		"price": 350,
-		"karmatype": "Good"
+		"abr": "cassowary",
+		"price": 333,
+		"defname": "Cassowary"
 	},
 	{
-		"abr": "visitorgroup",
-		"price": 200,
-		"karmatype": "Good"
+		"abr": "cassowaryegg(fert.)",
+		"price": 32,
+		"defname": "EggCassowaryFertilized"
 	},
 	{
-		"abr": "skillincrease",
-		"price": 200,
-		"karmatype": "Good"
+		"abr": "cat",
+		"price": 167,
+		"defname": "Cat"
 	},
 	{
-		"abr": "yorkshireterriers",
-		"price": 400,
-		"karmatype": "Good"
+		"abr": "Catmeat",
+		"price": 3,
+		"defname": "Meat_Cat"
 	},
 	{
-		"abr": "alphabeavers",
-		"price": 600,
-		"karmatype": "Bad"
+		"abr": "Catapult",
+		"price": 558,
+		"defname": "MedTimes__Artillery_Catapult"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 700,
-		"karmatype": "Good"
+		"abr": "chargedblizzariskegg(fert.)",
+		"price": 15,
+		"defname": "AA_BlizzariskSuperEggFertilized"
 	},
 	{
-		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
+		"abr": "chargeddunealiskegg(fert.)",
+		"price": 15,
+		"defname": "AA_DunealiskSuperEggFertilized"
 	},
 	{
-		"abr": "sapperraid",
-		"price": 1500,
-		"karmatype": "Bad"
+		"abr": "chargedferaliskegg(fert.)",
+		"price": 15,
+		"defname": "AA_FeraliskSuperEggFertilized"
 	},
 	{
-		"abr": "siegeraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "infestation",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "manhunterpack",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "randomdisease",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "disease",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "reviveanypawn",
-		"price": 5000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "pawn",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "animal",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "gambleskill",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "dwarf",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "uristbrigade",
-		"price": 900,
-		"karmatype": "Good"
+		"abr": "Cheese",
+		"price": 17,
+		"defname": "MedTimes_MealCheese"
 	},
 	{
 		"abr": "cheesecat",
-		"price": 900,
-		"karmatype": "Good"
+		"price": 167,
+		"defname": "CheeseCat"
 	},
 	{
-		"abr": "exoticitem",
-		"price": 900,
-		"karmatype": "Good"
+		"abr": "Cheesecatmeat",
+		"price": 3,
+		"defname": "Meat_CheeseCat"
 	},
 	{
-		"abr": "kitsuneassist",
+		"abr": "chemfuel",
+		"price": 4,
+		"defname": "Chemfuel"
+	},
+	{
+		"abr": "chesstable",
+		"price": 281,
+		"defname": "ChessTable"
+	},
+	{
+		"abr": "chicken",
+		"price": 83,
+		"defname": "Chicken"
+	},
+	{
+		"abr": "chickenegg(fert.)",
+		"price": 12,
+		"defname": "EggChickenFertilized"
+	},
+	{
+		"abr": "chickenegg(unfert.)",
+		"price": 12,
+		"defname": "EggChickenUnfertilized"
+	},
+	{
+		"abr": "Chickenmeat",
+		"price": 3,
+		"defname": "Meat_Chicken"
+	},
+	{
+		"abr": "chinchilla",
+		"price": 250,
+		"defname": "Chinchilla"
+	},
+	{
+		"abr": "chinchillafur",
+		"price": 11,
+		"defname": "Leather_Chinchilla"
+	},
+	{
+		"abr": "Chinchillameat",
+		"price": 3,
+		"defname": "Meat_Chinchilla"
+	},
+	{
+		"abr": "chocolate",
+		"price": 5,
+		"defname": "Chocolate"
+	},
+	{
+		"abr": "Claymore",
+		"price": 475,
+		"defname": "MedTimes_Melee_Claymore"
+	},
+	{
+		"abr": "Claymore(Nan)",
+		"price": 6317,
+		"defname": "MedTimes_Melee_Claymore_Nan"
+	},
+	{
+		"abr": "CloakofSupremacy",
+		"price": 7433,
+		"defname": "DemonLordCloak"
+	},
+	{
+		"abr": "cloth",
+		"price": 2,
+		"defname": "Cloth"
+	},
+	{
+		"abr": "club",
+		"price": 141,
+		"defname": "MeleeWeapon_Club"
+	},
+	{
+		"abr": "CoalChunks",
+		"price": 3,
+		"defname": "MedTimes_Resource_Coal"
+	},
+	{
+		"abr": "cobra",
+		"price": 250,
+		"defname": "Cobra"
+	},
+	{
+		"abr": "cobraegg(fert.)",
+		"price": 67,
+		"defname": "EggCobraFertilized"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"defname": "Meat_Cobra"
+	},
+	{
+		"abr": "colossalaerofleet",
+		"price": 667,
+		"defname": "AA_ColossalAerofleet"
+	},
+	{
+		"abr": "Colossalaerofleetmeat",
+		"price": 3,
+		"defname": "Meat_AA_ColossalAerofleet"
+	},
+	{
+		"abr": "CombatArmour(Art)",
+		"price": 9167,
+		"defname": "MedTimes_BodyArmour_Combat_Art"
+	},
+	{
+		"abr": "CombatArmour(Leg)",
+		"price": 15000,
+		"defname": "MedTimes_BodyArmour_Combat_Leg"
+	},
+	{
+		"abr": "CombatBoots(Art)",
+		"price": 5833,
+		"defname": "MedTimes_Boots_Combat_Art"
+	},
+	{
+		"abr": "CombatBoots(Leg)",
+		"price": 11667,
+		"defname": "MedTimes_Boots_Combat_Leg"
+	},
+	{
+		"abr": "CombatForm:Faceless",
+		"price": 4292,
+		"defname": "BookOfFaceless"
+	},
+	{
+		"abr": "CombatForm:Gladiator",
+		"price": 4292,
+		"defname": "BookOfGladiator"
+	},
+	{
+		"abr": "CombatGloves(Art)",
+		"price": 5833,
+		"defname": "MedTimes_Gloves_Combat_Art"
+	},
+	{
+		"abr": "CombatGloves(Leg)",
+		"price": 11667,
+		"defname": "MedTimes_Gloves_Combat_Leg"
+	},
+	{
+		"abr": "CombatHelmet(Art)",
+		"price": 5833,
+		"defname": "MedTimes_Helm_Combat_Art"
+	},
+	{
+		"abr": "CombatHelmet(Leg)",
+		"price": 11667,
+		"defname": "MedTimes_Helm_Combat_Leg"
+	},
+	{
+		"abr": "CombatPower:Psionic",
+		"price": 4750,
+		"defname": "BookOfPsionic"
+	},
+	{
+		"abr": "CombatStand",
+		"price": 70,
+		"defname": "MedTimes_CombatStandPlaced"
+	},
+	{
+		"abr": "CombatStyle:Bladedancer",
+		"price": 4292,
+		"defname": "BookOfBladedancer"
+	},
+	{
+		"abr": "CombatStyle:DeathKnight",
+		"price": 4292,
+		"defname": "BookOfDeathKnight"
+	},
+	{
+		"abr": "CombatStyle:Ranger",
+		"price": 4292,
+		"defname": "BookOfRanger"
+	},
+	{
+		"abr": "CombatStyle:Sniper",
+		"price": 4292,
+		"defname": "BookOfSniper"
+	},
+	{
+		"abr": "component",
+		"price": 53,
+		"defname": "ComponentIndustrial"
+	},
+	{
+		"abr": "CompositeBow",
+		"price": 163,
+		"defname": "MedTimes_Ranged_Composite"
+	},
+	{
+		"abr": "CompositeBow(Nan)",
+		"price": 6000,
+		"defname": "MedTimes_Ranged_Composite_Nan"
+	},
+	{
+		"abr": "ConicalBascinet",
+		"price": 129,
+		"defname": "MedTimes_Helm_ConicalBascinet"
+	},
+	{
+		"abr": "ConicalBascinet(Nan)",
+		"price": 5967,
+		"defname": "MedTimes_Helm_ConicalBascinet_Nan"
+	},
+	{
+		"abr": "corn",
+		"price": 2,
+		"defname": "RawCorn"
+	},
+	{
+		"abr": "corruptedaltar",
+		"price": 492,
+		"defname": "Cult_NightmareSacrificeAltar"
+	},
+	{
+		"abr": "cougar",
+		"price": 667,
+		"defname": "Cougar"
+	},
+	{
+		"abr": "Cougarmeat",
+		"price": 3,
+		"defname": "Meat_Cougar"
+	},
+	{
+		"abr": "cow",
+		"price": 500,
+		"defname": "Cow"
+	},
+	{
+		"abr": "cowboyhat",
+		"price": 94,
+		"defname": "Apparel_CowboyHat"
+	},
+	{
+		"abr": "CraftingStation",
+		"price": 306,
+		"defname": "MedTimes_CraftingStation"
+	},
+	{
+		"abr": "cram",
+		"price": 2,
+		"defname": "LotR_Cram"
+	},
+	{
+		"abr": "Crossbow",
+		"price": 273,
+		"defname": "MedTimes_Ranged_Crossbow"
+	},
+	{
+		"abr": "Crossbow(Nan)",
+		"price": 6108,
+		"defname": "MedTimes_Ranged_Crossbow_Nan"
+	},
+	{
+		"abr": "cthulhidtentacle",
+		"price": 667,
+		"defname": "Cults_CthulhidTentacle"
+	},
+	{
+		"abr": "cultaltar",
+		"price": 492,
+		"defname": "Cult_SacrificialAltar"
+	},
+	{
+		"abr": "cultisthood(bastmask)",
+		"price": 80,
+		"defname": "Apparel_BastMask"
+	},
+	{
+		"abr": "cultisthood(cthulhumask)",
+		"price": 98,
+		"defname": "Apparel_CthulhuMaskHood"
+	},
+	{
+		"abr": "cultisthood(dagonmitre)",
+		"price": 101,
+		"defname": "Apparel_DagonMitre"
+	},
+	{
+		"abr": "cultisthood(nyarlathotep)",
+		"price": 95,
+		"defname": "Apparel_NyarlathotepHood"
+	},
+	{
+		"abr": "cultisthood(shrouded)",
+		"price": 95,
+		"defname": "Apparel_CultistHood"
+	},
+	{
+		"abr": "cultisthood(shub-niggurathmask)",
+		"price": 95,
+		"defname": "Apparel_ShubMask"
+	},
+	{
+		"abr": "cultisthood(simple)",
+		"price": 95,
+		"defname": "Apparel_StandardHood"
+	},
+	{
+		"abr": "cultisthood(yellow)",
+		"price": 119,
+		"defname": "Apparel_HasturHood"
+	},
+	{
+		"abr": "cultistrobes",
+		"price": 315,
+		"defname": "Apparel_CultistRobes"
+	},
+	{
+		"abr": "cultistrobes(fur)",
+		"price": 327,
+		"defname": "Apparel_ROMFurRobes"
+	},
+	{
+		"abr": "cultistvestments(bast)",
+		"price": 320,
+		"defname": "Apparel_BastRobes"
+	},
+	{
+		"abr": "cultistvestments(druidic)",
+		"price": 450,
+		"defname": "Apparel_ROMShubRobes"
+	},
+	{
+		"abr": "cultistvestments(tentacled)",
+		"price": 450,
+		"defname": "Apparel_ROMCthulhuRobes"
+	},
+	{
+		"abr": "cultistvestments(traditional)",
+		"price": 383,
+		"defname": "Apparel_ROMDagonRobes"
+	},
+	{
+		"abr": "cultistvestments(wrap)",
+		"price": 275,
+		"defname": "Apparel_ROMWrapRobes"
+	},
+	{
+		"abr": "cultistvestments(yellow)",
+		"price": 450,
+		"defname": "Apparel_ROMHasturRobes"
+	},
+	{
+		"abr": "curtain(tribal)",
+		"price": 172,
+		"defname": "HeronCurtainTribal"
+	},
+	{
+		"abr": "DarkRobe",
+		"price": 4167,
+		"defname": "DarkRobe"
+	},
+	{
+		"abr": "DeathMask",
+		"price": 132,
+		"defname": "MedTimes_Helm_DeathMask"
+	},
+	{
+		"abr": "DeathMask(Nan)",
+		"price": 5975,
+		"defname": "MedTimes_Helm_DeathMask_Nan"
+	},
+	{
+		"abr": "decaydrake",
+		"price": 583,
+		"defname": "AA_DecayDrake"
+	},
+	{
+		"abr": "Decaydrakemeat",
+		"price": 3,
+		"defname": "Meat_AA_DecayDrake"
+	},
+	{
+		"abr": "deer",
+		"price": 417,
+		"defname": "Deer"
+	},
+	{
+		"abr": "deerskullmask",
+		"price": 113,
+		"defname": "ROMB_Apparel_DeerSkullMask"
+	},
+	{
+		"abr": "demonflesh",
+		"price": 3,
+		"defname": "Meat_TM_DemonR"
+	},
+	{
+		"abr": "Desk",
+		"price": 126,
+		"defname": "MedTimes_Desk"
+	},
+	{
+		"abr": "devilsheep",
+		"price": 1333,
+		"defname": "AA_DevilSheep"
+	},
+	{
+		"abr": "Devilsheepmeat",
+		"price": 3,
+		"defname": "Meat_AA_DevilSheep"
+	},
+	{
+		"abr": "devilstrand",
+		"price": 9,
+		"defname": "DevilstrandCloth"
+	},
+	{
+		"abr": "diningchair",
+		"price": 198,
+		"defname": "DiningChair"
+	},
+	{
+		"abr": "direwolf",
+		"price": 3667,
+		"defname": "TM_Dire_WolfR"
+	},
+	{
+		"abr": "disgustingnutrientpastemeal",
+		"price": 2,
+		"defname": "AA_DisgustingMealNutrientPaste"
+	},
+	{
+		"abr": "DivineScript:Paladin",
+		"price": 5500,
+		"defname": "BookOfValiant"
+	},
+	{
+		"abr": "dogleather",
+		"price": 3,
+		"defname": "Leather_Dog"
+	},
+	{
+		"abr": "DomedHelmet",
+		"price": 129,
+		"defname": "MedTimes_Helm_Domed"
+	},
+	{
+		"abr": "DomedHelmet(Nan)",
+		"price": 5967,
+		"defname": "MedTimes_Helm_Domed_Nan"
+	},
+	{
+		"abr": "door",
+		"price": 88,
+		"defname": "Door"
+	},
+	{
+		"abr": "door(1x2)",
+		"price": 172,
+		"defname": "PH_DoorDouble"
+	},
+	{
+		"abr": "door(3x1)",
+		"price": 260,
+		"defname": "PH_DoorTriple"
+	},
+	{
+		"abr": "doublebed",
+		"price": 292,
+		"defname": "DoubleBed"
+	},
+	{
+		"abr": "doublebedroll",
+		"price": 290,
+		"defname": "BedrollDouble"
+	},
+	{
+		"abr": "Dragon(fire-drake)meat",
+		"price": 3,
+		"defname": "Meat_LotRD_DragonFireDrakeRace"
+	},
+	{
+		"abr": "dragonhide",
+		"price": 27,
+		"defname": "LotRD_Leather_Dragon"
+	},
+	{
+		"abr": "dresser",
+		"price": 179,
+		"defname": "Dresser"
+	},
+	{
+		"abr": "DriedAgave",
+		"price": 17,
+		"defname": "MedTimes_MealDriedAgave"
+	},
+	{
+		"abr": "DriedBerries",
+		"price": 17,
+		"defname": "MedTimes_MealDriedBerries"
+	},
+	{
+		"abr": "DrinkingCup",
+		"price": 48,
+		"defname": "MedTimes_DrinkingCup"
+	},
+	{
+		"abr": "dromedary",
+		"price": 500,
+		"defname": "Dromedary"
+	},
+	{
+		"abr": "Dromedarymeat",
+		"price": 3,
+		"defname": "Meat_Dromedary"
+	},
+	{
+		"abr": "DruidSpell:FertileLands",
+		"price": 1233,
+		"defname": "SpellOf_FertileLands"
+	},
+	{
+		"abr": "DruidSpell:RegrowLimb",
+		"price": 3100,
+		"defname": "SpellOf_RegrowLimb"
+	},
+	{
+		"abr": "dunealisk",
+		"price": 833,
+		"defname": "AA_Dunealisk"
+	},
+	{
+		"abr": "dunealiskclutchmother",
 		"price": 1500,
-		"karmatype": "Good"
+		"defname": "AA_DunealiskClutchMother"
 	},
 	{
-		"abr": "mentalbreak",
+		"abr": "dunealiskegg(fert.)",
+		"price": 15,
+		"defname": "AA_DunealiskEggFertilized"
+	},
+	{
+		"abr": "dunealiskegg(unfert.)",
+		"price": 15,
+		"defname": "AA_DunealiskEggUnfertilized"
+	},
+	{
+		"abr": "duster",
+		"price": 327,
+		"defname": "Apparel_Duster"
+	},
+	{
+		"abr": "dwarf",
+		"price": 2917,
+		"defname": "LotRD_DwarfStandardRace"
+	},
+	{
+		"abr": "dwarfbattleaxe",
+		"price": 692,
+		"defname": "LotRD_MeleeWeapon_AxeBattle"
+	},
+	{
+		"abr": "dwarfcrossbow",
+		"price": 236,
+		"defname": "LotRD_Bow_DwarvenCross"
+	},
+	{
+		"abr": "dwarfdouble-beardedaxe",
+		"price": 775,
+		"defname": "LotRD_MeleeWeapon_AxeWarGimli"
+	},
+	{
+		"abr": "dwarfhornbow",
+		"price": 186,
+		"defname": "LotRD_Bow_Dwarven"
+	},
+	{
+		"abr": "dwarfleather",
+		"price": 7,
+		"defname": "LotRD_Leather_Dwarf"
+	},
+	{
+		"abr": "Dwarfmeat",
+		"price": 3,
+		"defname": "Meat_LotRD_DwarfStandardRace"
+	},
+	{
+		"abr": "dwarfwalkingaxe",
+		"price": 642,
+		"defname": "LotRD_MeleeWeapon_AxeGimliWalking"
+	},
+	{
+		"abr": "dwarf-king'scrown",
+		"price": 1775,
+		"defname": "LotRD_DwarfApparel_Crown"
+	},
+	{
+		"abr": "dwarf-shield",
+		"price": 209,
+		"defname": "LotRD_DwarfStandardShield"
+	},
+	{
+		"abr": "dwarf-shield(green)",
+		"price": 209,
+		"defname": "LotRD_DwarfStandardShieldThree"
+	},
+	{
+		"abr": "dwarf-shield(heraldry)",
+		"price": 209,
+		"defname": "LotRD_DwarfStandardShieldFour"
+	},
+	{
+		"abr": "dwarf-shield(knotted)",
+		"price": 209,
+		"defname": "LotRD_DwarfStandardShieldTwo"
+	},
+	{
+		"abr": "dwarf-shield(noble)",
+		"price": 209,
+		"defname": "LotRD_DwarfStandardShieldFive"
+	},
+	{
+		"abr": "dwarf-spear",
+		"price": 467,
+		"defname": "LotRD_MeleeWeapon_DwarfSpear"
+	},
+	{
+		"abr": "dwarf-sword",
+		"price": 575,
+		"defname": "LotRD_MeleeWeapon_DwarfSwordBandit"
+	},
+	{
+		"abr": "dwarvenbrazierbox",
+		"price": 68,
+		"defname": "LotRD_Brazier"
+	},
+	{
+		"abr": "dwarvencandelabra",
+		"price": 243,
+		"defname": "LotRD_DwarvenCandelabra"
+	},
+	{
+		"abr": "dwarvenchandelier",
+		"price": 383,
+		"defname": "LotRD_Chandelier"
+	},
+	{
+		"abr": "dwarvendresser",
+		"price": 213,
+		"defname": "LotRD_Dresser"
+	},
+	{
+		"abr": "dwarvenendtable",
+		"price": 141,
+		"defname": "LotRD_EndTable"
+	},
+	{
+		"abr": "dwarvengametable",
+		"price": 542,
+		"defname": "LotRD_GameTable"
+	},
+	{
+		"abr": "dwarvengrandgate(3x2)",
+		"price": 1683,
+		"defname": "PH_DoorDoubleDwarvenGrand"
+	},
+	{
+		"abr": "dwarvenithildinlamp",
+		"price": 261,
+		"defname": "LotRD_DwarvenStreetLamp"
+	},
+	{
+		"abr": "dwarvenithildinwalllight",
+		"price": 166,
+		"defname": "LotRD_DwarvenWallLight"
+	},
+	{
+		"abr": "dwarvenmead",
+		"price": 27,
+		"defname": "LotRD_Mead"
+	},
+	{
+		"abr": "dwarvenreinforceddoor",
+		"price": 174,
+		"defname": "LotRD_DoorDwarven"
+	},
+	{
+		"abr": "dwarvenstool",
+		"price": 106,
+		"defname": "LotRD_Stool"
+	},
+	{
+		"abr": "dwarventable(1x1)",
+		"price": 141,
+		"defname": "LotRD_Table1x1c"
+	},
+	{
+		"abr": "dwarventable(1x2)",
+		"price": 158,
+		"defname": "LotRD_Table1x2c"
+	},
+	{
+		"abr": "dwarventhrone",
+		"price": 1183,
+		"defname": "LotRD_DwarvenThrone"
+	},
+	{
+		"abr": "Dwarventunic",
+		"price": 199,
+		"defname": "LotRD_DwarfApparel_Tunic"
+	},
+	{
+		"abr": "ear",
+		"price": 667,
+		"defname": "Ear"
+	},
+	{
+		"abr": "earthbread",
+		"price": 2,
+		"defname": "LotRD_RawEarthBread"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"defname": "Meat_TM_LesserEarth_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"defname": "Meat_TM_Earth_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"defname": "Meat_TM_GreaterEarth_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"defname": "Meat_TM_LesserFire_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"defname": "Meat_TM_Fire_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"defname": "Meat_TM_GreaterFire_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"defname": "Meat_TM_LesserWater_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"defname": "Meat_TM_Water_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"defname": "Meat_TM_GreaterWater_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"defname": "Meat_TM_LesserWind_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"defname": "Meat_TM_Wind_ElementalR"
+	},
+	{
+		"abr": "elementaldust",
+		"price": 3,
+		"defname": "Meat_TM_GreaterWind_ElementalR"
+	},
+	{
+		"abr": "elephant",
+		"price": 1000,
+		"defname": "Elephant"
+	},
+	{
+		"abr": "ElephantBow",
+		"price": 2083,
+		"defname": "TM_ElephantBow"
+	},
+	{
+		"abr": "elephantleather",
+		"price": 5,
+		"defname": "Leather_Elephant"
+	},
+	{
+		"abr": "Elephantmeat",
+		"price": 3,
+		"defname": "Meat_Elephant"
+	},
+	{
+		"abr": "elephantspear",
+		"price": 1333,
+		"defname": "TM_ElephantSpear"
+	},
+	{
+		"abr": "elephanttusk",
+		"price": 133,
+		"defname": "ElephantTusk"
+	},
+	{
+		"abr": "elf",
+		"price": 2917,
+		"defname": "LotRE_ElfStandardRace"
+	},
+	{
+		"abr": "elfbuckler",
+		"price": 212,
+		"defname": "LotRE_ElvenShieldBuckler"
+	},
+	{
+		"abr": "elfcrown",
+		"price": 171,
+		"defname": "LotRE_ElfApparel_WoodElfCrown"
+	},
+	{
+		"abr": "elfdoll(dwarfmake)",
+		"price": 108,
+		"defname": "LotRD_DwarfElfToy"
+	},
+	{
+		"abr": "elfleather",
+		"price": 8,
+		"defname": "LotRE_Leather_Elf"
+	},
+	{
+		"abr": "elflhang",
+		"price": 808,
+		"defname": "LotRE_MeleeWeapon_Lhang"
+	},
+	{
+		"abr": "Elfmeat",
+		"price": 3,
+		"defname": "Meat_LotRE_ElfStandardRace"
+	},
+	{
+		"abr": "elfsaber",
+		"price": 700,
+		"defname": "LotRE_MeleeWeapon_Saber"
+	},
+	{
+		"abr": "elfwhiteknives",
+		"price": 608,
+		"defname": "LotRE_MeleeWeapon_WhiteKnives"
+	},
+	{
+		"abr": "elf-cape(coastal)",
+		"price": 191,
+		"defname": "LotRE_Apparel_CapeCoastal"
+	},
+	{
+		"abr": "elf-cape(woodland)",
+		"price": 191,
+		"defname": "LotRE_Apparel_Cape"
+	},
+	{
+		"abr": "elf-robe(coastal)",
+		"price": 245,
+		"defname": "LotRE_ElfApparel_SimpleRobeSea"
+	},
+	{
+		"abr": "elf-robe(noble)",
+		"price": 245,
+		"defname": "LotRE_ElfApparel_SimpleRobeHigh"
+	},
+	{
+		"abr": "elf-robe(woodland)",
+		"price": 245,
+		"defname": "LotRE_ElfApparel_SimpleRobeWoodland"
+	},
+	{
+		"abr": "elk",
+		"price": 500,
+		"defname": "Elk"
+	},
+	{
+		"abr": "Elkmeat",
+		"price": 3,
+		"defname": "Meat_Elk"
+	},
+	{
+		"abr": "elvencandelabra",
+		"price": 209,
+		"defname": "LotRE_ElvenCandelabra"
+	},
+	{
+		"abr": "ElvenChair",
+		"price": 236,
+		"defname": "LotRE_Chair"
+	},
+	{
+		"abr": "ElvenGrandGate(2x2)",
+		"price": 675,
+		"defname": "PH_DoorDoubleElvishGrand"
+	},
+	{
+		"abr": "Elvenloungebed",
+		"price": 105,
+		"defname": "LotRE_ElvenBed"
+	},
+	{
+		"abr": "Elvenroyalbed",
+		"price": 1225,
+		"defname": "LotRE_ElvenRoyalBed"
+	},
+	{
+		"abr": "Elventable(2x2)",
+		"price": 176,
+		"defname": "LotRE_ElvishTable2x2c"
+	},
+	{
+		"abr": "Elven,decorativefencegate.",
+		"price": 172,
+		"defname": "Elven_Fence_GateA"
+	},
+	{
+		"abr": "Elven,decorativefencegate.",
+		"price": 172,
+		"defname": "Elven_Fence_GateB"
+	},
+	{
+		"abr": "Elvishbread",
+		"price": 33,
+		"defname": "LotRE_ElvishBread"
+	},
+	{
+		"abr": "emu",
+		"price": 333,
+		"defname": "Emu"
+	},
+	{
+		"abr": "emuegg(fert.)",
+		"price": 30,
+		"defname": "EggEmuFertilized"
+	},
+	{
+		"abr": "EncasedSteelArmour",
+		"price": 475,
+		"defname": "MedTimes_EncasedSteel"
+	},
+	{
+		"abr": "EncasedSteelArmour(Nan)",
+		"price": 6317,
+		"defname": "MedTimes_EncasedSteel_Nan"
+	},
+	{
+		"abr": "EncasedSteelBoots",
+		"price": 129,
+		"defname": "MedTimes_Boots_EncasedSteel"
+	},
+	{
+		"abr": "EncasedSteelBoots(Nan)",
+		"price": 5967,
+		"defname": "MedTimes_Boots_EncasedSteel_Nan"
+	},
+	{
+		"abr": "EncasedSteelGauntlets",
+		"price": 129,
+		"defname": "MedTimes_Gauntlets_EncasedSteel"
+	},
+	{
+		"abr": "EncasedSteelGauntlets(Nan)",
+		"price": 5967,
+		"defname": "MedTimes_Gauntlets_EncasedSteel_Nan"
+	},
+	{
+		"abr": "EnchanterSpell:BlankMind",
+		"price": 1367,
+		"defname": "SpellOf_BlankMind"
+	},
+	{
+		"abr": "EnchanterSpell:Shapeshift",
+		"price": 3333,
+		"defname": "SpellOf_Shapeshift"
+	},
+	{
+		"abr": "endtable",
+		"price": 106,
+		"defname": "EndTable"
+	},
+	{
+		"abr": "EternityForge",
+		"price": 20000,
+		"defname": "MedTimes_EternityForge"
+	},
+	{
+		"abr": "ExplosivePot",
+		"price": 50,
+		"defname": "MedTimes_Resource_ExplosivePot"
+	},
+	{
+		"abr": "eyeball",
+		"price": 2500,
+		"defname": "Eye"
+	},
+	{
+		"abr": "falathrim-elfarmor",
+		"price": 287,
+		"defname": "LotRE_ElfApparel_BattleArmorSea"
+	},
+	{
+		"abr": "falathrim-elfhelmet",
+		"price": 86,
+		"defname": "LotRE_ElfApparel_BattleHelmetSea"
+	},
+	{
+		"abr": "FancyIceBox",
+		"price": 278,
+		"defname": "MedTimes_IceboxFancy"
+	},
+	{
+		"abr": "fennecfox",
+		"price": 333,
+		"defname": "Fox_Fennec"
+	},
+	{
+		"abr": "feralisk",
+		"price": 833,
+		"defname": "AA_Feralisk"
+	},
+	{
+		"abr": "feraliskclutchmother",
 		"price": 1500,
-		"karmatype": "Bad"
+		"defname": "AA_FeraliskClutchMother"
+	},
+	{
+		"abr": "feraliskegg(fert.)",
+		"price": 15,
+		"defname": "AA_FeraliskEggFertilized"
+	},
+	{
+		"abr": "feraliskegg(unfert.)",
+		"price": 15,
+		"defname": "AA_FeraliskEggUnfertilized"
+	},
+	{
+		"abr": "fermentingbarrel",
+		"price": 93,
+		"defname": "FermentingBarrel"
+	},
+	{
+		"abr": "fermentingbarrel(mead)",
+		"price": 93,
+		"defname": "LotRD_FermentingBarrel"
+	},
+	{
+		"abr": "fertilitytotem",
+		"price": 1,
+		"defname": "Cults_FertilityTotem"
+	},
+	{
+		"abr": "FighterSkill:FightersFocus",
+		"price": 1333,
+		"defname": "SkillOf_FightersFocus"
+	},
+	{
+		"abr": "FighterSkill:GearRepair",
+		"price": 1167,
+		"defname": "SkillOf_GearRepair"
+	},
+	{
+		"abr": "FighterSkill:HeavyBlow",
+		"price": 1250,
+		"defname": "SkillOf_HeavyBlow"
+	},
+	{
+		"abr": "FighterSkill:InnerHealing",
+		"price": 833,
+		"defname": "SkillOf_InnerHealing"
+	},
+	{
+		"abr": "FighterSkill:Sprint",
+		"price": 833,
+		"defname": "SkillOf_Sprint"
+	},
+	{
+		"abr": "FighterSkill:StrongBack",
+		"price": 1000,
+		"defname": "SkillOf_StrongBack"
+	},
+	{
+		"abr": "FighterSkill:ThickSkin",
+		"price": 667,
+		"defname": "SkillOf_ThickSkin"
+	},
+	{
+		"abr": "finemeal",
+		"price": 33,
+		"defname": "MealFine"
+	},
+	{
+		"abr": "FireSpell:CauterizeWound",
+		"price": 533,
+		"defname": "SpellOf_CauterizeWound"
+	},
+	{
+		"abr": "FireSpell:DryGround",
+		"price": 900,
+		"defname": "SpellOf_DryGround"
+	},
+	{
+		"abr": "FireSpell:Firestorm",
+		"price": 3583,
+		"defname": "SpellOf_Firestorm"
+	},
+	{
+		"abr": "Firepit",
+		"price": 52,
+		"defname": "MedTimes_Firepit"
+	},
+	{
+		"abr": "fissionmouse",
+		"price": 58,
+		"defname": "AA_FissionMouse"
+	},
+	{
+		"abr": "Fissionmousemeat",
+		"price": 3,
+		"defname": "Meat_AA_FissionMouse"
+	},
+	{
+		"abr": "fissionmouse,secondgeneration",
+		"price": 58,
+		"defname": "AA_FissionMouseSecond"
+	},
+	{
+		"abr": "fissionmouse,thirdgeneration",
+		"price": 58,
+		"defname": "AA_FissionMouseThird"
+	},
+	{
+		"abr": "flakjacket",
+		"price": 467,
+		"defname": "Apparel_FlakJacket"
+	},
+	{
+		"abr": "flakpants",
+		"price": 358,
+		"defname": "Apparel_FlakPants"
+	},
+	{
+		"abr": "FoodPrepStation",
+		"price": 268,
+		"defname": "MedTimes_FoodPrepStation"
+	},
+	{
+		"abr": "foot",
+		"price": 667,
+		"defname": "Foot"
+	},
+	{
+		"abr": "forbiddenknowledgecenter",
+		"price": 383,
+		"defname": "Cults_ForbiddenKnowledgeCenter"
+	},
+	{
+		"abr": "Forester'sAxe",
+		"price": 213,
+		"defname": "MedTimes_Melee_AxeForester"
+	},
+	{
+		"abr": "Forester'sAxe(Nan)",
+		"price": 6050,
+		"defname": "MedTimes_Melee_AxeForester_Nan"
+	},
+	{
+		"abr": "formlessmatter",
+		"price": 3,
+		"defname": "CH_Leather_FormlessSpawn"
+	},
+	{
+		"abr": "foxfur",
+		"price": 6,
+		"defname": "Leather_Fox"
+	},
+	{
+		"abr": "foxmeat",
+		"price": 3,
+		"defname": "Meat_Fox_Fennec"
+	},
+	{
+		"abr": "FragmentofMjolnir(Leg)",
+		"price": 14167,
+		"defname": "MedTimes_Melee_HammerFragment_Leg"
+	},
+	{
+		"abr": "Freelancer'sTabard",
+		"price": 215,
+		"defname": "MedTimes_ShellBody_TabardFreelancer"
+	},
+	{
+		"abr": "frostmite",
+		"price": 200,
+		"defname": "AA_Frostmite"
+	},
+	{
+		"abr": "fueledstove",
+		"price": 245,
+		"defname": "FueledStove"
+	},
+	{
+		"abr": "FullPlatedBoots",
+		"price": 91,
+		"defname": "MedTimes_Boots_FullPlated"
+	},
+	{
+		"abr": "FullPlatedBoots(Nan)",
+		"price": 5933,
+		"defname": "MedTimes_Boots_FullPlated_Nan"
+	},
+	{
+		"abr": "FullPlatedGauntlets",
+		"price": 91,
+		"defname": "MedTimes_Gauntlets_Plated"
+	},
+	{
+		"abr": "FullPlatedGauntlets(Nan)",
+		"price": 5933,
+		"defname": "MedTimes_Gauntlets_Plated_Nan"
+	},
+	{
+		"abr": "FullPlatedHead-wrap",
+		"price": 91,
+		"defname": "MedTimes_Helm_FullPlated"
+	},
+	{
+		"abr": "FullPlatedHead-wrap(Nan)",
+		"price": 5933,
+		"defname": "MedTimes_Helm_FullPlated_Nan"
+	},
+	{
+		"abr": "FunBunny(Art)",
+		"price": 5333,
+		"defname": "MedTimes_Melee_FunBunny_Art"
+	},
+	{
+		"abr": "FunBunny(Leg)",
+		"price": 11167,
+		"defname": "MedTimes_Melee_FunBunny_Leg"
+	},
+	{
+		"abr": "galadhrim-elfarmor",
+		"price": 358,
+		"defname": "LotRE_ElfApparel_BattleArmorTree"
+	},
+	{
+		"abr": "galadhrim-elfbow",
+		"price": 367,
+		"defname": "LotRE_Bow_Galadhrim"
+	},
+	{
+		"abr": "galadhrim-elfhelmet",
+		"price": 342,
+		"defname": "LotRE_ElfApparel_BattleHelmetTree"
+	},
+	{
+		"abr": "gallatross",
+		"price": 6667,
+		"defname": "AA_Gallatross"
+	},
+	{
+		"abr": "gallatrosshorn",
+		"price": 2000,
+		"defname": "AA_GallatrossHorn"
+	},
+	{
+		"abr": "gallatrossleather",
+		"price": 27,
+		"defname": "Leather_Gallatross"
+	},
+	{
+		"abr": "Gallatrossmeat",
+		"price": 3,
+		"defname": "Meat_AA_Gallatross"
+	},
+	{
+		"abr": "Gambison",
+		"price": 358,
+		"defname": "MedTimes_ArmBody_Gambison"
+	},
+	{
+		"abr": "game-of-Urboard",
+		"price": 153,
+		"defname": "GameOfUrBoard"
+	},
+	{
+		"abr": "GardeningBox",
+		"price": 85,
+		"defname": "MedTimes_GardeningBox"
+	},
+	{
+		"abr": "gate(2x1)",
+		"price": 608,
+		"defname": "PH_GateDoubleThick"
+	},
+	{
+		"abr": "gazelle",
+		"price": 250,
+		"defname": "Gazelle"
+	},
+	{
+		"abr": "Gazellemeat",
+		"price": 3,
+		"defname": "Meat_Gazelle"
+	},
+	{
+		"abr": "gelatin",
+		"price": 13,
+		"defname": "ROMB_Gelatin"
+	},
+	{
+		"abr": "GemofArcaneInsight",
+		"price": 5000,
+		"defname": "GemstoneOfInsight_Magic"
+	},
+	{
+		"abr": "GemofPhysicalInsight",
+		"price": 4000,
+		"defname": "GemstoneOfInsight_Might"
+	},
+	{
+		"abr": "GeomancerSpell:Meteor",
+		"price": 2750,
+		"defname": "SpellOf_Meteor"
+	},
+	{
+		"abr": "giantboar",
+		"price": 350,
+		"defname": "LotRD_GiantBoarRace"
+	},
+	{
+		"abr": "Gisarme",
+		"price": 350,
+		"defname": "MedTimes_Melee_Gisarme"
+	},
+	{
+		"abr": "Gisarme(Nan)",
+		"price": 6192,
+		"defname": "MedTimes_Melee_Gisarme_Nan"
+	},
+	{
+		"abr": "gladius",
+		"price": 215,
+		"defname": "MeleeWeapon_Gladius"
+	},
+	{
+		"abr": "glowpod",
+		"price": 83,
+		"defname": "GlowPod"
+	},
+	{
+		"abr": "GodKing'sGauntlets(Art)",
+		"price": 5167,
+		"defname": "MedTimes_Gauntlets_Godking_Art"
+	},
+	{
+		"abr": "GodKing'sGauntlets(Leg)",
+		"price": 11000,
+		"defname": "MedTimes_Gauntlets_Godking_Leg"
+	},
+	{
+		"abr": "GodKing'sMask(Art)",
+		"price": 5167,
+		"defname": "MedTimes_Helm_GodKingBlue_Art"
+	},
+	{
+		"abr": "GodKing'sMask(Leg)",
+		"price": 11000,
+		"defname": "MedTimes_Helm_GodKingBlue_Leg"
+	},
+	{
+		"abr": "GodKing'sPlate(Art)",
+		"price": 8333,
+		"defname": "MedTimes_BodyArmour_GodKingBlue_Art"
+	},
+	{
+		"abr": "GodKing'sPlate(Leg)",
+		"price": 14167,
+		"defname": "MedTimes_BodyArmour_GodKingBlue_Leg"
+	},
+	{
+		"abr": "GodKing'sThrone",
+		"price": 1242,
+		"defname": "MedTimes_GodKingThrone"
+	},
+	{
+		"abr": "Godking'sBoots(Art)",
+		"price": 5167,
+		"defname": "MedTimes_Boots_Godking_Art"
+	},
+	{
+		"abr": "Godking'sBoots(Leg)",
+		"price": 11000,
+		"defname": "MedTimes_Boots_Godking_Leg"
+	},
+	{
+		"abr": "gold",
+		"price": 17,
+		"defname": "Gold"
+	},
+	{
+		"abr": "GrandIceSculpture",
+		"price": 967,
+		"defname": "MedTimes_IceSculptureGrand"
+	},
+	{
+		"abr": "grandsculpture",
+		"price": 1125,
+		"defname": "SculptureGrand"
+	},
+	{
+		"abr": "graniteblocks",
+		"price": 2,
+		"defname": "BlocksGranite"
+	},
+	{
+		"abr": "granitechunk",
+		"price": 18,
+		"defname": "ChunkGranite"
+	},
+	{
+		"abr": "GraphicNovel",
+		"price": 25,
+		"defname": "MedTimes_GraphicNovel"
+	},
+	{
+		"abr": "greatdevourer",
+		"price": 667,
+		"defname": "AA_GreatDevourer"
+	},
+	{
+		"abr": "greatdevoureregg(fert.)",
+		"price": 15,
+		"defname": "AA_GreatDevourerEggFertilized"
+	},
+	{
+		"abr": "greatdevoureregg(unfert.)",
+		"price": 15,
+		"defname": "AA_GreatDevourerEggUnfertilized"
+	},
+	{
+		"abr": "Greatdevourermeat",
+		"price": 3,
+		"defname": "Meat_AA_GreatDevourer"
+	},
+	{
+		"abr": "greatbow",
+		"price": 221,
+		"defname": "Bow_Great"
+	},
+	{
+		"abr": "grimoireoftheoccult",
+		"price": 33,
+		"defname": "Cults_Grimoire"
+	},
+	{
+		"abr": "grizzlybear",
+		"price": 1167,
+		"defname": "Bear_Grizzly"
+	},
+	{
+		"abr": "groundrunner",
+		"price": 417,
+		"defname": "AA_Groundrunner"
+	},
+	{
+		"abr": "Groundrunnermeat",
+		"price": 3,
+		"defname": "Meat_AA_Groundrunner"
+	},
+	{
+		"abr": "guardianfur",
+		"price": 10,
+		"defname": "Cults_GuardianBast_Fur"
+	},
+	{
+		"abr": "Guardianmeat",
+		"price": 3,
+		"defname": "Meat_GuardianBast"
+	},
+	{
+		"abr": "Halberd",
+		"price": 475,
+		"defname": "MedTimes_Melee_Halberd"
+	},
+	{
+		"abr": "Halberd(Nan)",
+		"price": 6317,
+		"defname": "MedTimes_Melee_Halberd_Nan"
+	},
+	{
+		"abr": "half-elf",
+		"price": 2083,
+		"defname": "LotRE_ElfStandardRaceHalf"
+	},
+	{
+		"abr": "half-elfleather",
+		"price": 8,
+		"defname": "LotRE_Leather_ElfHalf"
+	},
+	{
+		"abr": "Half-elfmeat",
+		"price": 3,
+		"defname": "Meat_LotRE_ElfStandardRaceHalf"
+	},
+	{
+		"abr": "hand",
+		"price": 750,
+		"defname": "Hand"
+	},
+	{
+		"abr": "handtailorbench",
+		"price": 262,
+		"defname": "HandTailoringBench"
+	},
+	{
+		"abr": "HandTools",
+		"price": 133,
+		"defname": "MedTimes_CraftingTools"
+	},
+	{
+		"abr": "hare",
+		"price": 83,
+		"defname": "Hare"
+	},
+	{
+		"abr": "Haremeat",
+		"price": 3,
+		"defname": "Meat_Hare"
+	},
+	{
+		"abr": "hay",
+		"price": 1,
+		"defname": "Hay"
+	},
+	{
+		"abr": "heart",
+		"price": 1667,
+		"defname": "Heart"
+	},
+	{
+		"abr": "HeartyStew",
+		"price": 33,
+		"defname": "MedTimes_MealHeartyStew"
+	},
+	{
+		"abr": "heavyfur",
+		"price": 6,
+		"defname": "Leather_Heavy"
+	},
+	{
+		"abr": "HelmoftheValiant",
+		"price": 1767,
+		"defname": "RoyalHelm"
+	},
+	{
+		"abr": "herbalmedicine",
+		"price": 17,
+		"defname": "MedicineHerbal"
+	},
+	{
+		"abr": "hill-dwarfarmor",
+		"price": 1017,
+		"defname": "LotRD_DwarfApparel_IronHillArmor"
+	},
+	{
+		"abr": "hill-dwarfhelmet",
+		"price": 942,
+		"defname": "LotRD_DwarfApparel_IronHillHelmet"
+	},
+	{
+		"abr": "hill-dwarflordhelm",
+		"price": 942,
+		"defname": "LotRD_DwarfApparel_IronHillHelmetKing"
+	},
+	{
+		"abr": "hill-dwarfShield",
+		"price": 248,
+		"defname": "LotRD_IronHillBattleShield"
+	},
+	{
+		"abr": "hobbit",
+		"price": 2917,
+		"defname": "LotRH_HobbitStandardRace"
+	},
+	{
+		"abr": "Hobbitanklebiteraxe",
+		"price": 193,
+		"defname": "LotRH_AnklebiterAxe"
+	},
+	{
+		"abr": "Hobbitarch",
+		"price": 173,
+		"defname": "LotRH_HobbitHoleArch"
+	},
+	{
+		"abr": "Hobbitbasket-hiltedsword",
+		"price": 281,
+		"defname": "LotRH_Baskethilt"
+	},
+	{
+		"abr": "Hobbitdoor",
+		"price": 173,
+		"defname": "LotRH_HobbitHoleDoor"
+	},
+	{
+		"abr": "Hobbitdress",
+		"price": 177,
+		"defname": "LotRH_Apparel_Dress"
+	},
+	{
+		"abr": "Hobbitjacket",
+		"price": 207,
+		"defname": "LotRH_Apparel_Jacket"
+	},
+	{
+		"abr": "hobbitleather",
+		"price": 8,
+		"defname": "LotRH_Leather_Hobbit"
+	},
+	{
+		"abr": "Hobbitmeat",
+		"price": 3,
+		"defname": "Meat_LotRH_HobbitStandardRace"
+	},
+	{
+		"abr": "Hobbitpants",
+		"price": 176,
+		"defname": "LotRH_Apparel_PantsHobbit"
+	},
+	{
+		"abr": "Hobbitpitchfork",
+		"price": 209,
+		"defname": "LotRH_Pitchfork"
+	},
+	{
+		"abr": "Hobbitshirtandvest",
+		"price": 179,
+		"defname": "LotRH_Apparel_Vest"
+	},
+	{
+		"abr": "Hobbittraveler'spack",
+		"price": 179,
+		"defname": "LotRH_Apparel_Backpack"
+	},
+	{
+		"abr": "HolyHandGrenadeOfAntioch(Art)",
+		"price": 2000,
+		"defname": "MedTimes_Ranged_GrenadesAntioch"
+	},
+	{
+		"abr": "HolyHandGrenadeOfAntioch(Art)",
+		"price": 2000,
+		"defname": "MedTimes_Ranged_GrenadesAntioch_Dud"
+	},
+	{
+		"abr": "honeyroot",
+		"price": 2,
+		"defname": "LotRD_RawHoneyroot"
+	},
+	{
+		"abr": "HoodofMadness",
+		"price": 2100,
+		"defname": "HoodOfMadness"
+	},
+	{
+		"abr": "Hoodedcape",
+		"price": 191,
+		"defname": "LotRH_Apparel_Cape"
+	},
+	{
+		"abr": "hoopstonering",
+		"price": 67,
+		"defname": "HoopstoneRing"
+	},
+	{
+		"abr": "hops",
+		"price": 2,
+		"defname": "RawHops"
+	},
+	{
+		"abr": "horrifyingeyestalk",
+		"price": 667,
+		"defname": "Cults_CthulhidEyestalk"
+	},
+	{
+		"abr": "Horse",
+		"price": 500,
+		"defname": "LotR_HorseRace"
+	},
+	{
+		"abr": "horsemeat",
+		"price": 3,
+		"defname": "Meat_LotR_HorseRace"
+	},
+	{
+		"abr": "horseshoespin",
+		"price": 34,
+		"defname": "HorseshoesPin"
+	},
+	{
+		"abr": "human",
+		"price": 2917,
+		"defname": "Human"
+	},
+	{
+		"abr": "humanleather",
+		"price": 7,
+		"defname": "Leather_Human"
+	},
+	{
+		"abr": "Humanmeat",
+		"price": 1,
+		"defname": "Meat_Human"
+	},
+	{
+		"abr": "husky",
+		"price": 417,
+		"defname": "Husky"
+	},
+	{
+		"abr": "Huskymeat",
+		"price": 3,
+		"defname": "Meat_Husky"
+	},
+	{
+		"abr": "hyperweave",
+		"price": 15,
+		"defname": "Hyperweave"
+	},
+	{
+		"abr": "ibex",
+		"price": 417,
+		"defname": "Ibex"
+	},
+	{
+		"abr": "Ibexmeat",
+		"price": 3,
+		"defname": "Meat_Ibex"
+	},
+	{
+		"abr": "IceBlocks",
+		"price": 6,
+		"defname": "MedTimes_Resource_IceBlocks"
+	},
+	{
+		"abr": "IceBox",
+		"price": 120,
+		"defname": "MedTimes_Icebox"
+	},
+	{
+		"abr": "IceCreationStation",
+		"price": 73,
+		"defname": "MedTimes_IceCreationStation"
+	},
+	{
+		"abr": "IceSpell:Blizzard",
+		"price": 3583,
+		"defname": "SpellOf_Blizzard"
+	},
+	{
+		"abr": "IceSpell:MoisturizeGround",
+		"price": 900,
+		"defname": "SpellOf_WetGround"
+	},
+	{
+		"abr": "iguana",
+		"price": 167,
+		"defname": "Iguana"
+	},
+	{
+		"abr": "iguanaegg(fert.)",
+		"price": 42,
+		"defname": "EggIguanaFertilized"
+	},
+	{
+		"abr": "Iguanameat",
+		"price": 3,
+		"defname": "Meat_Iguana"
+	},
+	{
+		"abr": "ikwa",
+		"price": 197,
+		"defname": "MeleeWeapon_Ikwa"
+	},
+	{
+		"abr": "ImprovedBlacksmith'sForge",
+		"price": 324,
+		"defname": "MedTimes_BlacksmithForgeTierTwo"
+	},
+	{
+		"abr": "insectchitin",
+		"price": 5,
+		"defname": "Leather_Chitin"
+	},
+	{
+		"abr": "insectjelly",
+		"price": 13,
+		"defname": "InsectJelly"
+	},
+	{
+		"abr": "insectmeat",
+		"price": 1,
+		"defname": "Meat_Megaspider"
+	},
+	{
+		"abr": "iron",
+		"price": 3,
+		"defname": "LotR_Iron"
+	},
+	{
+		"abr": "ironchitin",
+		"price": 5,
+		"defname": "Leather_IronChitin"
+	},
+	{
+		"abr": "ironhuskbeetle",
+		"price": 5000,
+		"defname": "AA_IronhuskBeetle"
+	},
+	{
+		"abr": "ironhuskbeetleegg(fert.)",
+		"price": 15,
+		"defname": "AA_IronhuskEggFertilized"
+	},
+	{
+		"abr": "ironhuskbeetleegg(unfert.)",
+		"price": 15,
+		"defname": "AA_IronhuskEggUnfertilized"
+	},
+	{
+		"abr": "Ironhuskbeetlemeat",
+		"price": 3,
+		"defname": "Meat_AA_IronhuskBeetle"
+	},
+	{
+		"abr": "jacket",
+		"price": 275,
+		"defname": "Apparel_Jacket"
+	},
+	{
+		"abr": "jade",
+		"price": 8,
+		"defname": "Jade"
+	},
+	{
+		"abr": "jaildoor",
+		"price": 533,
+		"defname": "PH_DoorJail"
+	},
+	{
+		"abr": "jaw",
+		"price": 667,
+		"defname": "Jaw"
+	},
+	{
+		"abr": "JerkedMeats",
+		"price": 17,
+		"defname": "MedTimes_MealJerkedMeats"
+	},
+	{
+		"abr": "journal",
+		"price": 38,
+		"defname": "Jecrell_BookJournal"
+	},
+	{
+		"abr": "kibble",
+		"price": 2,
+		"defname": "Kibble"
+	},
+	{
+		"abr": "kidney",
+		"price": 1500,
+		"defname": "Kidney"
+	},
+	{
+		"abr": "knife",
+		"price": 111,
+		"defname": "MeleeWeapon_Knife"
+	},
+	{
+		"abr": "Knight'sDagger",
+		"price": 270,
+		"defname": "MedTimes_Melee_DaggerKnight"
+	},
+	{
+		"abr": "Knight'sDagger(Nan)",
+		"price": 6108,
+		"defname": "MedTimes_Melee_DaggerKnight_Nan"
+	},
+	{
+		"abr": "labradorretriever",
+		"price": 417,
+		"defname": "LabradorRetriever"
+	},
+	{
+		"abr": "Labradorretrievermeat",
+		"price": 3,
+		"defname": "Meat_LabradorRetriever"
+	},
+	{
+		"abr": "LargeIceSculpture",
+		"price": 500,
+		"defname": "MedTimes_IceSculptureLarge"
+	},
+	{
+		"abr": "largesculpture",
+		"price": 517,
+		"defname": "SculptureLarge"
+	},
+	{
+		"abr": "largeserpenthumanoidsculpture",
+		"price": 725,
+		"defname": "YigSculptureLarge"
+	},
+	{
+		"abr": "lavishmeal",
+		"price": 67,
+		"defname": "MealLavish"
+	},
+	{
+		"abr": "leg",
+		"price": 1167,
+		"defname": "Leg"
+	},
+	{
+		"abr": "Lembas",
+		"price": 42,
+		"defname": "LotRE_LembasWaybread"
+	},
+	{
+		"abr": "lembascorn",
+		"price": 2,
+		"defname": "LotRE_RawLembasCorn"
+	},
+	{
+		"abr": "Lembasflour",
+		"price": 6,
+		"defname": "LotRE_Lembasflour"
+	},
+	{
+		"abr": "LightReflector",
+		"price": 120,
+		"defname": "MedTimes_Reflector"
+	},
+	{
+		"abr": "lightleather",
+		"price": 3,
+		"defname": "Leather_Light"
+	},
+	{
+		"abr": "LightningSpell:ChargeBattery",
+		"price": 833,
+		"defname": "SpellOf_ChargeBattery"
+	},
+	{
+		"abr": "LightningSpell:EyeoftheStorm",
+		"price": 3583,
+		"defname": "SpellOf_EyeOfTheStorm"
+	},
+	{
+		"abr": "limestoneblocks",
+		"price": 2,
+		"defname": "BlocksLimestone"
+	},
+	{
+		"abr": "limestonechunk",
+		"price": 16,
+		"defname": "ChunkLimestone"
+	},
+	{
+		"abr": "liver",
+		"price": 1500,
+		"defname": "Liver"
+	},
+	{
+		"abr": "livingcactusskin",
+		"price": 6,
+		"defname": "Leather_Cactus"
+	},
+	{
+		"abr": "lizardskin",
+		"price": 3,
+		"defname": "Leather_Lizard"
+	},
+	{
+		"abr": "lockjaw",
+		"price": 917,
+		"defname": "AA_Lockjaw"
+	},
+	{
+		"abr": "Lockjawmeat",
+		"price": 3,
+		"defname": "Meat_AA_Lockjaw"
+	},
+	{
+		"abr": "longbeard-dwarfchaincoat",
+		"price": 608,
+		"defname": "LotRD_DwarfApparel_GimliArmor"
+	},
+	{
+		"abr": "longbeard-dwarfhelmet",
+		"price": 625,
+		"defname": "LotRD_DwarfApparel_GimliHelmet"
+	},
+	{
+		"abr": "Longbow",
+		"price": 193,
+		"defname": "MedTimes_Ranged_Longbow"
+	},
+	{
+		"abr": "Longbow(Nan)",
+		"price": 6033,
+		"defname": "MedTimes_Ranged_Longbow_Nan"
+	},
+	{
+		"abr": "longsword",
+		"price": 442,
+		"defname": "MeleeWeapon_LongSword"
+	},
+	{
+		"abr": "Lóriendeer",
+		"price": 417,
+		"defname": "LotRE_DeerMallorn"
+	},
+	{
+		"abr": "lórienvenison",
+		"price": 3,
+		"defname": "Meat_LotRE_DeerMallorn"
+	},
+	{
+		"abr": "lung",
+		"price": 1500,
+		"defname": "Lung"
+	},
+	{
+		"abr": "lynx",
+		"price": 417,
+		"defname": "Lynx"
+	},
+	{
+		"abr": "Lynxmeat",
+		"price": 3,
+		"defname": "Meat_Lynx"
+	},
+	{
+		"abr": "mace",
+		"price": 203,
+		"defname": "MeleeWeapon_Mace"
+	},
+	{
+		"abr": "MageSpell:Blink",
+		"price": 833,
+		"defname": "SpellOf_Blink"
+	},
+	{
+		"abr": "MageSpell:Blur",
+		"price": 967,
+		"defname": "SpellOf_Blur"
+	},
+	{
+		"abr": "MageSpell:DispelHeat",
+		"price": 633,
+		"defname": "SpellOf_Cooler"
+	},
+	{
+		"abr": "MageSpell:DrawHeat",
+		"price": 633,
+		"defname": "SpellOf_Heater"
+	},
+	{
+		"abr": "MageSpell:EMP",
+		"price": 967,
+		"defname": "SpellOf_EMP"
+	},
+	{
+		"abr": "MageSpell:Extinguish",
+		"price": 567,
+		"defname": "SpellOf_Extinguish"
+	},
+	{
+		"abr": "MageSpell:Heal",
+		"price": 767,
+		"defname": "SpellOf_Heal"
+	},
+	{
+		"abr": "MageSpell:ManaShield",
+		"price": 1600,
+		"defname": "SpellOf_ManaShield"
+	},
+	{
+		"abr": "MageSpell:PowerNode",
+		"price": 1017,
+		"defname": "SpellOf_PowerNode"
+	},
+	{
+		"abr": "MageSpell:Rain",
+		"price": 433,
+		"defname": "SpellOf_Rain"
+	},
+	{
+		"abr": "MageSpell:SiphonMana",
+		"price": 1267,
+		"defname": "SpellOf_SiphonMana"
+	},
+	{
+		"abr": "MageSpell:SmokeCloud",
+		"price": 700,
+		"defname": "SpellOf_SmokeCloud"
+	},
+	{
+		"abr": "MageSpell:SpellMending",
+		"price": 1792,
+		"defname": "SpellOf_SpellMending"
+	},
+	{
+		"abr": "MageSpell:SummonMinion",
+		"price": 1750,
+		"defname": "SpellOf_SummonMinion"
+	},
+	{
+		"abr": "MageSpell:SunLight",
+		"price": 1117,
+		"defname": "SpellOf_Sunlight"
+	},
+	{
+		"abr": "MageSpell:Teleport",
+		"price": 2200,
+		"defname": "SpellOf_Teleport"
+	},
+	{
+		"abr": "MageSpell:TransferMana",
+		"price": 1267,
+		"defname": "SpellOf_TransferMana"
+	},
+	{
+		"abr": "MajorArcaneGemofAcceleration",
+		"price": 1592,
+		"defname": "TM_EStone_coolDown_major"
+	},
+	{
+		"abr": "MajorArcaneGemofConservation",
+		"price": 1592,
+		"defname": "TM_EStone_mpCost_major"
+	},
+	{
+		"abr": "MajorArcaneGemofForce",
+		"price": 1592,
+		"defname": "TM_EStone_arcaneDmg_major"
+	},
+	{
+		"abr": "MajorArcaneGemofHolding",
+		"price": 1592,
+		"defname": "TM_EStone_maxMP_major"
+	},
+	{
+		"abr": "MajorArcaneGemofLearning",
+		"price": 1592,
+		"defname": "TM_EStone_xpGain_major"
+	},
+	{
+		"abr": "MajorArcaneGemofRegeneration",
+		"price": 1592,
+		"defname": "TM_EStone_mpRegenRate_major"
+	},
+	{
+		"abr": "MajorArcaneGemofResistance",
+		"price": 1592,
+		"defname": "TM_EStone_arcaneRes_major"
+	},
+	{
+		"abr": "MajorArcaneGemofWonder",
+		"price": 10917,
+		"defname": "TM_EStone_wonder_major"
+	},
+	{
+		"abr": "mallorn-wood",
+		"price": 2,
+		"defname": "LotRE_WoodLogMallorn"
+	},
+	{
+		"abr": "MammothWorm",
+		"price": 1000,
+		"defname": "AA_MammothWorm"
+	},
+	{
+		"abr": "mammothwormegg(fert.)",
+		"price": 15,
+		"defname": "AA_MammothWormEggFertilized"
+	},
+	{
+		"abr": "mammothwormegg(unfert.)",
+		"price": 15,
+		"defname": "AA_MammothWormEggUnfertilized"
+	},
+	{
+		"abr": "ManaPotion",
+		"price": 150,
+		"defname": "ManaPotion"
+	},
+	{
+		"abr": "manaweave",
+		"price": 15,
+		"defname": "TM_Manaweave"
+	},
+	{
+		"abr": "marbleblocks",
+		"price": 2,
+		"defname": "BlocksMarble"
+	},
+	{
+		"abr": "marblechunk",
+		"price": 13,
+		"defname": "ChunkMarble"
+	},
+	{
+		"abr": "marblelabyrinth(dwarfmake)",
+		"price": 192,
+		"defname": "LotRD_DwarfMarbleLabyrinth"
+	},
+	{
+		"abr": "Marksman'sBracers(Art)",
+		"price": 5667,
+		"defname": "MedTimes_Bracer_Marksman_Art"
+	},
+	{
+		"abr": "Marksman'sBracers(Leg)",
+		"price": 11500,
+		"defname": "MedTimes_Bracer_Marksman_Leg"
+	},
+	{
+		"abr": "meadwort",
+		"price": 4,
+		"defname": "LotRD_MeadWort"
+	},
+	{
+		"abr": "meadowave",
+		"price": 667,
+		"defname": "AA_MeadowAve"
+	},
+	{
+		"abr": "meadowaveegg(fert.)",
+		"price": 32,
+		"defname": "AA_EggMeadowAveFertilized"
+	},
+	{
+		"abr": "Meadowavemeat",
+		"price": 3,
+		"defname": "Meat_AA_MeadowAve"
+	},
+	{
+		"abr": "medicinalcactipinequill",
+		"price": 17,
+		"defname": "AA_CactipineQuill"
+	},
+	{
+		"abr": "MedievalCot",
+		"price": 138,
+		"defname": "MedTimes_Cot"
+	},
+	{
+		"abr": "MedievalDoubleCot",
+		"price": 256,
+		"defname": "MedTimes_CotDouble"
+	},
+	{
+		"abr": "MedievalGrenades",
+		"price": 333,
+		"defname": "MedTimes_Ranged_MedievalGrenade"
+	},
+	{
+		"abr": "MedievalLongSword",
+		"price": 475,
+		"defname": "MedTimes_Melee_SwordLong"
+	},
+	{
+		"abr": "MedievalLongSword(Nan)",
+		"price": 6317,
+		"defname": "MedTimes_Melee_SwordLong_Nan"
+	},
+	{
+		"abr": "MedievalStool",
+		"price": 54,
+		"defname": "MedTimes_MedStool"
+	},
+	{
+		"abr": "megalouse",
+		"price": 667,
+		"defname": "AA_MegaLouse"
+	},
+	{
+		"abr": "megalouseegg(fert.)",
+		"price": 15,
+		"defname": "AA_MegalouseEggFertilized"
+	},
+	{
+		"abr": "megalouseegg(unfert.)",
+		"price": 15,
+		"defname": "AA_MegalouseEggUnfertilized"
+	},
+	{
+		"abr": "megascarab",
+		"price": 167,
+		"defname": "Megascarab"
+	},
+	{
+		"abr": "megascreentelevision",
+		"price": 2408,
+		"defname": "MegascreenTelevision"
+	},
+	{
+		"abr": "megasloth",
+		"price": 1167,
+		"defname": "Megasloth"
+	},
+	{
+		"abr": "Megaslothmeat",
+		"price": 3,
+		"defname": "Meat_Megasloth"
+	},
+	{
+		"abr": "megaslothwool",
+		"price": 4,
+		"defname": "WoolMegasloth"
+	},
+	{
+		"abr": "megaspider",
+		"price": 833,
+		"defname": "Megaspider"
+	},
+	{
+		"abr": "milk",
+		"price": 5,
+		"defname": "Milk"
+	},
+	{
+		"abr": "MinorArcaneGemofAcceleration",
+		"price": 283,
+		"defname": "TM_EStone_coolDown_minor"
+	},
+	{
+		"abr": "MinorArcaneGemofConservation",
+		"price": 283,
+		"defname": "TM_EStone_mpCost_minor"
+	},
+	{
+		"abr": "MinorArcaneGemofForce",
+		"price": 283,
+		"defname": "TM_EStone_arcaneDmg_minor"
+	},
+	{
+		"abr": "MinorArcaneGemofHolding",
+		"price": 283,
+		"defname": "TM_EStone_maxMP_minor"
+	},
+	{
+		"abr": "MinorArcaneGemofLearning",
+		"price": 283,
+		"defname": "TM_EStone_xpGain_minor"
+	},
+	{
+		"abr": "MinorArcaneGemofRegeneration",
+		"price": 283,
+		"defname": "TM_EStone_mpRegenRate_minor"
+	},
+	{
+		"abr": "MinorArcaneGemofResistance",
+		"price": 283,
+		"defname": "TM_EStone_arcaneRes_minor"
+	},
+	{
+		"abr": "MinorArcaneGemofWonder",
+		"price": 1983,
+		"defname": "TM_EStone_wonder_minor"
+	},
+	{
+		"abr": "mirkwood-elfbow",
+		"price": 180,
+		"defname": "LotRE_Bow_Mirkwood"
+	},
+	{
+		"abr": "mithril",
+		"price": 53,
+		"defname": "LotR_Mithril"
+	},
+	{
+		"abr": "monkey",
+		"price": 167,
+		"defname": "Monkey"
+	},
+	{
+		"abr": "Monkeymeat",
+		"price": 3,
+		"defname": "Meat_Monkey"
+	},
+	{
+		"abr": "Monolith",
+		"price": 301,
+		"defname": "Cults_MonolithNightmare"
+	},
+	{
+		"abr": "monstrousabominationsculpture",
+		"price": 1608,
+		"defname": "SculptureTsathoggua"
+	},
+	{
+		"abr": "monstrousbody",
+		"price": 833,
+		"defname": "Cults_MonstrousBody"
+	},
+	{
+		"abr": "monstrousbrain",
+		"price": 833,
+		"defname": "Cults_MonstrousBrain"
+	},
+	{
+		"abr": "monstrousfelinesculpture",
+		"price": 1608,
+		"defname": "SculptureBast"
+	},
+	{
+		"abr": "monstrousfish-headedsculpture",
+		"price": 1608,
+		"defname": "SculptureDagon"
+	},
+	{
+		"abr": "monstrousgoat-likesculpture",
+		"price": 1608,
+		"defname": "SculptureShub"
+	},
+	{
+		"abr": "monstroushoodedsculpture",
+		"price": 1608,
+		"defname": "SculptureNyarlathotep"
+	},
+	{
+		"abr": "monstrouskingsculpture",
+		"price": 1608,
+		"defname": "SculptureHastur"
+	},
+	{
+		"abr": "monstrousoctopoidsculpture",
+		"price": 1608,
+		"defname": "SculptureCthulhu"
+	},
+	{
+		"abr": "MorningStar",
+		"price": 325,
+		"defname": "MedTimes_Melee_MorningStar"
+	},
+	{
+		"abr": "MorningStar(Nan)",
+		"price": 6167,
+		"defname": "MedTimes_Melee_MorningStar_Nan"
+	},
+	{
+		"abr": "mountain-dwarfarmor",
+		"price": 1017,
+		"defname": "LotRD_DwarfApparel_MoriaBattleArmor"
+	},
+	{
+		"abr": "mountain-dwarfbattlehelmet",
+		"price": 950,
+		"defname": "LotRD_DwarfApparel_MoriaBattleHelmet"
+	},
+	{
+		"abr": "mountain-dwarfshield",
+		"price": 310,
+		"defname": "LotRD_MoriaBattleShield"
+	},
+	{
+		"abr": "muffalo",
+		"price": 500,
+		"defname": "Muffalo"
+	},
+	{
+		"abr": "Muffalomeat",
+		"price": 3,
+		"defname": "Meat_Muffalo"
+	},
+	{
+		"abr": "muffalowool",
+		"price": 4,
+		"defname": "WoolMuffalo"
+	},
+	{
+		"abr": "MurderHole",
+		"price": 342,
+		"defname": "MedTimes_Artillery_MurderHole"
+	},
+	{
+		"abr": "mysterymeat",
+		"price": 3,
+		"defname": "Meat_TM_MinionR"
+	},
+	{
+		"abr": "mysterymeat",
+		"price": 3,
+		"defname": "Meat_TM_GreaterMinionR"
+	},
+	{
+		"abr": "NaniteVial",
+		"price": 5833,
+		"defname": "MedTimes_NaniteVial"
+	},
+	{
+		"abr": "NasalHelmet",
+		"price": 129,
+		"defname": "MedTimes_Helm_Nasal"
+	},
+	{
+		"abr": "NasalHelmet(Nan)",
+		"price": 5967,
+		"defname": "MedTimes_Helm_Nasal_Nan"
+	},
+	{
+		"abr": "NecromancerSpell:LichForm",
+		"price": 4292,
+		"defname": "SpellOf_LichForm"
+	},
+	{
+		"abr": "needlepost",
+		"price": 1050,
+		"defname": "AA_Needlepost"
+	},
+	{
+		"abr": "Needlepostmeat",
+		"price": 3,
+		"defname": "Meat_AA_Needlepost"
+	},
+	{
+		"abr": "needleroll",
+		"price": 417,
+		"defname": "AA_Needleroll"
+	},
+	{
+		"abr": "Needlerollmeat",
+		"price": 3,
+		"defname": "Meat_AA_Needleroll"
+	},
+	{
+		"abr": "neutroamine",
+		"price": 10,
+		"defname": "Neutroamine"
+	},
+	{
+		"abr": "nightling",
+		"price": 1250,
+		"defname": "AA_Nightling"
+	},
+	{
+		"abr": "nightlingegg(fert.)",
+		"price": 167,
+		"defname": "AA_EggNightlingFertilized"
+	},
+	{
+		"abr": "Nightlingmeat",
+		"price": 3,
+		"defname": "Meat_AA_Nightling"
+	},
+	{
+		"abr": "nobledwarf-sword",
+		"price": 642,
+		"defname": "LotRD_MeleeWeapon_DwarfSword"
+	},
+	{
+		"abr": "ñoldorin-elfarmor",
+		"price": 1458,
+		"defname": "LotRE_ElfApparel_BattleArmor"
+	},
+	{
+		"abr": "ñoldorin-elfhelmet",
+		"price": 181,
+		"defname": "LotRE_ElfApparel_BattleHelmet"
+	},
+	{
+		"abr": "ñoldorin-elfshield",
+		"price": 392,
+		"defname": "LotRE_ElvenShield"
+	},
+	{
+		"abr": "nose",
+		"price": 500,
+		"defname": "Nose"
+	},
+	{
+		"abr": "nutrientpastemeal",
+		"price": 17,
+		"defname": "MealNutrientPaste"
+	},
+	{
+		"abr": "obelisk(blue)",
+		"price": 1000,
+		"defname": "Cults_ObeliskConstructed_Blue"
+	},
+	{
+		"abr": "obelisk(green)",
+		"price": 1000,
+		"defname": "Cults_ObeliskConstructed_Green"
+	},
+	{
+		"abr": "obelisk(red)",
+		"price": 1000,
+		"defname": "Cults_ObeliskConstructed_Red"
+	},
+	{
+		"abr": "obelisk(yellow)",
+		"price": 1000,
+		"defname": "Cults_ObeliskConstructed_Yellow"
+	},
+	{
+		"abr": "ocularjelly",
+		"price": 417,
+		"defname": "AA_OcularJelly"
+	},
+	{
+		"abr": "ocularjellymeat",
+		"price": 3,
+		"defname": "AA_OcularJellyMeat"
+	},
+	{
+		"abr": "Ocularjellymeat",
+		"price": 3,
+		"defname": "Meat_AA_OcularJelly"
+	},
+	{
+		"abr": "One-HandedCrossbow",
+		"price": 408,
+		"defname": "MedTimes_Ranged_HandCrossbow"
+	},
+	{
+		"abr": "One-HandedCrossbow(Nan)",
+		"price": 6250,
+		"defname": "MedTimes_Ranged_HandCrossbow_Nan"
+	},
+	{
+		"abr": "One-HandedFlangedMace",
+		"price": 325,
+		"defname": "MedTimes_Melee_MaceFlanged"
+	},
+	{
+		"abr": "One-HandedFlangedMace(Nan)",
+		"price": 6167,
+		"defname": "MedTimes_Melee_MaceFlanged_Nan"
+	},
+	{
+		"abr": "One-HandedMace",
+		"price": 236,
+		"defname": "MedTimes_Melee_MaceHand"
+	},
+	{
+		"abr": "One-HandedMace(Nan)",
+		"price": 6075,
+		"defname": "MedTimes_Melee_MaceHand_Nan"
+	},
+	{
+		"abr": "OrbOfConviction",
+		"price": 2500,
+		"defname": "TM_Artifact_OrbOfConviction"
+	},
+	{
+		"abr": "OrbofSouls(empty)",
+		"price": 2500,
+		"defname": "TM_Artifact_OrbOfSouls"
+	},
+	{
+		"abr": "OrbofSouls(filled)",
+		"price": 2500,
+		"defname": "TM_Artifact_OrbOfSouls_Full"
+	},
+	{
+		"abr": "OrboftheEternal",
+		"price": 2500,
+		"defname": "TM_Artifact_OrbOfEternal"
+	},
+	{
+		"abr": "ostrich",
+		"price": 417,
+		"defname": "Ostrich"
+	},
+	{
+		"abr": "ostrichegg(fert.)",
+		"price": 38,
+		"defname": "EggOstrichFertilized"
+	},
+	{
+		"abr": "overgrowncolossus",
+		"price": 917,
+		"defname": "AA_OvergrownColossus"
+	},
+	{
+		"abr": "Overgrowncolossusmeat",
+		"price": 3,
+		"defname": "Meat_AA_OvergrownColossus"
+	},
+	{
+		"abr": "over-wallvent",
+		"price": 90,
+		"defname": "Vent_Over"
+	},
+	{
+		"abr": "packagedsurvivalmeal",
+		"price": 40,
+		"defname": "MealSurvivalPack"
+	},
+	{
+		"abr": "PaddedJacket",
+		"price": 358,
+		"defname": "MedTimes_ArmBody_PaddedJacket"
+	},
+	{
+		"abr": "PaladinSpell:HolyWrath",
+		"price": 3167,
+		"defname": "SpellOf_HolyWrath"
+	},
+	{
+		"abr": "panther",
+		"price": 667,
+		"defname": "Panther"
+	},
+	{
+		"abr": "Panthermeat",
+		"price": 3,
+		"defname": "Meat_Panther"
+	},
+	{
+		"abr": "pantherafur",
+		"price": 5,
+		"defname": "Leather_Panthera"
+	},
+	{
+		"abr": "pantryshelf",
+		"price": 106,
+		"defname": "LotR_PantryShelf"
+	},
+	{
+		"abr": "pants",
+		"price": 183,
+		"defname": "Apparel_Pants"
+	},
+	{
+		"abr": "pants",
+		"price": 183,
+		"defname": "LotRD_DwarfApparel_Pants"
+	},
+	{
+		"abr": "papermakingtable",
+		"price": 358,
+		"defname": "RimWriter_PapermakingBench"
+	},
+	{
+		"abr": "Paragon'sHelm",
+		"price": 3167,
+		"defname": "ParagonHelm"
+	},
+	{
+		"abr": "parka",
+		"price": 315,
+		"defname": "Apparel_Parka"
+	},
+	{
+		"abr": "passivecooler",
+		"price": 101,
+		"defname": "PassiveCooler"
+	},
+	{
+		"abr": "patchleather",
+		"price": 2,
+		"defname": "Leather_Patch"
+	},
+	{
+		"abr": "pebblemit",
+		"price": 417,
+		"defname": "AA_PebbleMit"
+	},
+	{
+		"abr": "Pebblemitmeat",
+		"price": 3,
+		"defname": "Meat_AA_PebbleMit"
+	},
+	{
+		"abr": "pemmican",
+		"price": 2,
+		"defname": "Pemmican"
+	},
+	{
+		"abr": "PersonalComputer",
+		"price": 3917,
+		"defname": "MedTimes_PersonalComputer"
+	},
+	{
+		"abr": "pig",
+		"price": 333,
+		"defname": "Pig"
+	},
+	{
+		"abr": "pigskin",
+		"price": 3,
+		"defname": "Leather_Pig"
+	},
+	{
+		"abr": "pila",
+		"price": 275,
+		"defname": "Pila"
+	},
+	{
+		"abr": "Pipe-weedleaves",
+		"price": 1,
+		"defname": "LotRH_PipeweedLeaves"
+	},
+	{
+		"abr": "pipe-weedpipe",
+		"price": 17,
+		"defname": "LotRH_PipeweedPipe"
+	},
+	{
+		"abr": "plainleather",
+		"price": 3,
+		"defname": "Leather_Plain"
+	},
+	{
+		"abr": "plantpot",
+		"price": 68,
+		"defname": "PlantPot"
+	},
+	{
+		"abr": "plasteel",
+		"price": 15,
+		"defname": "Plasteel"
+	},
+	{
+		"abr": "platearmor",
+		"price": 792,
+		"defname": "Apparel_PlateArmor"
+	},
+	{
+		"abr": "PlatedGloves",
+		"price": 91,
+		"defname": "MedTimes_Gloves_Plated"
+	},
+	{
+		"abr": "PlatedGloves(Nan)",
+		"price": 5933,
+		"defname": "MedTimes_Gloves_Plated_Nan"
+	},
+	{
+		"abr": "pokertable",
+		"price": 400,
+		"defname": "PokerTable"
+	},
+	{
+		"abr": "polarbear",
+		"price": 1167,
+		"defname": "Bear_Polar"
+	},
+	{
+		"abr": "pomanafruit",
+		"price": 4,
+		"defname": "TM_RawPomanasyrrium"
+	},
+	{
+		"abr": "Pony",
+		"price": 417,
+		"defname": "LotR_PonyRace"
+	},
+	{
+		"abr": "ponymeat",
+		"price": 3,
+		"defname": "Meat_LotR_PonyRace"
+	},
+	{
+		"abr": "poppi",
+		"price": 217,
+		"defname": "TM_Poppi"
+	},
+	{
+		"abr": "Poppimeat",
+		"price": 3,
+		"defname": "Meat_TM_Poppi"
+	},
+	{
+		"abr": "pork",
+		"price": 3,
+		"defname": "Meat_Pig"
+	},
+	{
+		"abr": "PortableButcher'sBlock",
+		"price": 76,
+		"defname": "MedTimes_ButcherBlock"
+	},
+	{
+		"abr": "potatoes",
+		"price": 2,
+		"defname": "RawPotatoes"
+	},
+	{
+		"abr": "prayerpillow",
+		"price": 85,
+		"defname": "Cults_PrayerPillow"
+	},
+	{
+		"abr": "PriestSpell:Resurrection",
+		"price": 6250,
+		"defname": "SpellOf_Resurrection"
+	},
+	{
+		"abr": "PrimitiveSpear",
+		"price": 120,
+		"defname": "MedTimes_Melee_PrimativeSpear"
+	},
+	{
+		"abr": "PrimitiveSpear(Nan)",
+		"price": 5958,
+		"defname": "MedTimes_Melee_PrimativeSpear_Nan"
+	},
+	{
+		"abr": "psioniclobe",
+		"price": 2500,
+		"defname": "Cults_PsionicBrain"
+	},
+	{
+		"abr": "psychicfoilhelmet",
+		"price": 417,
+		"defname": "Apparel_PsychicFoilHelmet"
+	},
+	{
+		"abr": "psychitetea",
+		"price": 17,
+		"defname": "PsychiteTea"
+	},
+	{
+		"abr": "psychoidleaves",
+		"price": 3,
+		"defname": "PsychoidLeaves"
+	},
+	{
+		"abr": "puzzlebox(dwarfmake)",
+		"price": 217,
+		"defname": "LotRD_DwarfPuzzleBox"
+	},
+	{
+		"abr": "Puzzlebox",
+		"price": 78,
+		"defname": "MedTimes_Puzzlebox"
+	},
+	{
+		"abr": "QuicklimePitch",
+		"price": 17,
+		"defname": "MedTimes_Resource_Quicklime"
+	},
+	{
+		"abr": "raccoon",
+		"price": 167,
+		"defname": "Raccoon"
+	},
+	{
+		"abr": "Raccoonmeat",
+		"price": 3,
+		"defname": "Meat_Raccoon"
+	},
+	{
+		"abr": "raptorshrimp",
+		"price": 1250,
+		"defname": "AA_RaptorShrimp"
+	},
+	{
+		"abr": "Raptorshrimpmeat",
+		"price": 3,
+		"defname": "Meat_AA_RaptorShrimp"
+	},
+	{
+		"abr": "raptorshrimpplates",
+		"price": 7,
+		"defname": "Leather_RaptorPlates"
+	},
+	{
+		"abr": "rat",
+		"price": 58,
+		"defname": "Rat"
+	},
+	{
+		"abr": "Ratmeat",
+		"price": 3,
+		"defname": "Meat_Rat"
+	},
+	{
+		"abr": "rawfungus",
+		"price": 2,
+		"defname": "RawFungus"
+	},
+	{
+		"abr": "reanimatedleather",
+		"price": 3,
+		"defname": "CH_Leather_ReanimatedCorpse"
+	},
+	{
+		"abr": "recurvebow",
+		"price": 110,
+		"defname": "Bow_Recurve"
+	},
+	{
+		"abr": "redfox",
+		"price": 333,
+		"defname": "Fox_Red"
+	},
+	{
+		"abr": "redwood",
+		"price": 2,
+		"defname": "GU_RedWood"
+	},
+	{
+		"abr": "rhinoceros",
+		"price": 1167,
+		"defname": "Rhinoceros"
+	},
+	{
+		"abr": "rhinocerosleather",
+		"price": 7,
+		"defname": "Leather_Rhinoceros"
+	},
+	{
+		"abr": "Rhinocerosmeat",
+		"price": 3,
+		"defname": "Meat_Rhinoceros"
+	},
+	{
+		"abr": "rice",
+		"price": 2,
+		"defname": "RawRice"
+	},
+	{
+		"abr": "RingofBlood",
+		"price": 3167,
+		"defname": "TM_Artifact_RingOfBlood"
+	},
+	{
+		"abr": "RingofKeenIntellect",
+		"price": 3500,
+		"defname": "TM_Artifact_RingOfKeenIntellect"
+	},
+	{
+		"abr": "RingofMalice",
+		"price": 3167,
+		"defname": "TM_Artifact_RingOfMalice"
+	},
+	{
+		"abr": "RingoftheEternalBlue",
+		"price": 3333,
+		"defname": "TM_Artifact_RingOfEternalBlue"
+	},
+	{
+		"abr": "rivendell-elfbow",
+		"price": 775,
+		"defname": "LotRE_Bow_Rivendell"
+	},
+	{
+		"abr": "RobesoftheArchmage",
+		"price": 10417,
+		"defname": "ArchMageRobe"
+	},
+	{
+		"abr": "royalbed",
+		"price": 1467,
+		"defname": "RoyalBed"
+	},
+	{
+		"abr": "RoyalDeathPlateArmour",
+		"price": 475,
+		"defname": "MedTimes_RoyalPlated_Death"
+	},
+	{
+		"abr": "RoyalDeathPlateArmour(Nan)",
+		"price": 6317,
+		"defname": "MedTimes_RoyalPlated_Death_Nan"
+	},
+	{
+		"abr": "RoyalMask",
+		"price": 132,
+		"defname": "MedTimes_Helm_RoyalMask"
+	},
+	{
+		"abr": "RoyalMask(Nan)",
+		"price": 5975,
+		"defname": "MedTimes_Helm_RoyalMask_Nan"
+	},
+	{
+		"abr": "RoyalPlatedArmour",
+		"price": 475,
+		"defname": "MedTimes_RoyalPlated"
+	},
+	{
+		"abr": "RoyalPlatedArmour(Nan)",
+		"price": 6317,
+		"defname": "MedTimes_RoyalPlated_Nan"
+	},
+	{
+		"abr": "RoyalPlatedArmourandCape",
+		"price": 475,
+		"defname": "MedTimes_RoyalPlated_CapedBlue"
+	},
+	{
+		"abr": "RoyalPlatedArmourandCape(Nan)",
+		"price": 6317,
+		"defname": "MedTimes_RoyalPlated_CapedBlue_Nan"
+	},
+	{
+		"abr": "RoyalPlatedBoots",
+		"price": 129,
+		"defname": "MedTimes_Boots_RoyalPlated"
+	},
+	{
+		"abr": "RoyalPlatedBoots(Nan)",
+		"price": 5967,
+		"defname": "MedTimes_Boots_RoyalPlated_Nan"
+	},
+	{
+		"abr": "RoyalPlatedGauntlets",
+		"price": 132,
+		"defname": "MedTimes_Gauntlets_RoyalPlated"
+	},
+	{
+		"abr": "RoyalPlatedGauntlets(Nan)",
+		"price": 5975,
+		"defname": "MedTimes_Gauntlets_RoyalPlated_Nan"
+	},
+	{
+		"abr": "RustyWarKnife",
+		"price": 342,
+		"defname": "MedTimes_Melee_WarKnife"
+	},
+	{
+		"abr": "RustyWarKnife(Nan)",
+		"price": 6183,
+		"defname": "MedTimes_Melee_WarKnife_Nan"
+	},
+	{
+		"abr": "sacrificialaltar",
+		"price": 492,
+		"defname": "Cult_AnimalSacrificeAltar"
+	},
+	{
+		"abr": "sacrificialaltar",
+		"price": 492,
+		"defname": "Cult_HumanSacrificeAltar"
+	},
+	{
+		"abr": "sailoruniform",
+		"price": 327,
+		"defname": "Apparel_SailorUniform"
+	},
+	{
+		"abr": "sailorscap",
+		"price": 95,
+		"defname": "Apparel_SailorsCap"
+	},
+	{
+		"abr": "SalletHelmet",
+		"price": 129,
+		"defname": "MedTimes_Helm_Sallet"
+	},
+	{
+		"abr": "SalletHelmet(Nan)",
+		"price": 5967,
+		"defname": "MedTimes_Helm_Sallet_Nan"
+	},
+	{
+		"abr": "Saltedaerofleetmeat",
+		"price": 3,
+		"defname": "AA_AerofleetMeatSalted"
+	},
+	{
+		"abr": "SaltedAerofleetmeat",
+		"price": 3,
+		"defname": "Meat_AA_AerofleetSalted"
+	},
+	{
+		"abr": "SaltedAlpacameat",
+		"price": 3,
+		"defname": "Meat_AlpacaSalted"
+	},
+	{
+		"abr": "SaltedAlphabeavermeat",
+		"price": 3,
+		"defname": "Meat_AlphabeaverSalted"
+	},
+	{
+		"abr": "SaltedAnimusvoxmeat",
+		"price": 3,
+		"defname": "Meat_AA_AnimusVoxSalted"
+	},
+	{
+		"abr": "SaltedArcticlionmeat",
+		"price": 3,
+		"defname": "Meat_AA_ArcticLionSalted"
+	},
+	{
+		"abr": "Saltedbearmeat",
+		"price": 3,
+		"defname": "Meat_Bear_GrizzlySalted"
+	},
+	{
+		"abr": "Saltedbeef",
+		"price": 3,
+		"defname": "Meat_CowSalted"
+	},
+	{
+		"abr": "Saltedbirdmeat",
+		"price": 3,
+		"defname": "Meat_CassowarySalted"
+	},
+	{
+		"abr": "SaltedBlackgoatmeat",
+		"price": 3,
+		"defname": "Meat_Cults_BlackGoatSalted"
+	},
+	{
+		"abr": "SaltedBoomalopemeat",
+		"price": 3,
+		"defname": "Meat_BoomalopeSalted"
+	},
+	{
+		"abr": "SaltedBoomratmeat",
+		"price": 3,
+		"defname": "Meat_BoomratSalted"
+	},
+	{
+		"abr": "SaltedBouldermitmeat",
+		"price": 3,
+		"defname": "Meat_AA_BoulderMitSalted"
+	},
+	{
+		"abr": "SaltedCactipinemeat",
+		"price": 3,
+		"defname": "Meat_AA_CactipineSalted"
+	},
+	{
+		"abr": "SaltedCapybarameat",
+		"price": 3,
+		"defname": "Meat_CapybaraSalted"
+	},
+	{
+		"abr": "SaltedCariboumeat",
+		"price": 3,
+		"defname": "Meat_CaribouSalted"
+	},
+	{
+		"abr": "SaltedCatmeat",
+		"price": 3,
+		"defname": "Meat_CatSalted"
+	},
+	{
+		"abr": "SaltedCheesecatmeat",
+		"price": 3,
+		"defname": "Meat_CheeseCatSalted"
+	},
+	{
+		"abr": "SaltedChickenmeat",
+		"price": 3,
+		"defname": "Meat_ChickenSalted"
+	},
+	{
+		"abr": "SaltedChinchillameat",
+		"price": 3,
+		"defname": "Meat_ChinchillaSalted"
+	},
+	{
+		"abr": "Saltedcobraflesh",
+		"price": 3,
+		"defname": "Meat_CobraSalted"
+	},
+	{
+		"abr": "SaltedColossalaerofleetmeat",
+		"price": 3,
+		"defname": "Meat_AA_ColossalAerofleetSalted"
+	},
+	{
+		"abr": "SaltedCougarmeat",
+		"price": 3,
+		"defname": "Meat_CougarSalted"
+	},
+	{
+		"abr": "SaltedDecaydrakemeat",
+		"price": 3,
+		"defname": "Meat_AA_DecayDrakeSalted"
+	},
+	{
+		"abr": "Salteddemonflesh",
+		"price": 3,
+		"defname": "Meat_TM_DemonRSalted"
+	},
+	{
+		"abr": "SaltedDevilsheepmeat",
+		"price": 3,
+		"defname": "Meat_AA_DevilSheepSalted"
+	},
+	{
+		"abr": "SaltedDragon(fire-drake)meat",
+		"price": 3,
+		"defname": "Meat_LotRD_DragonFireDrakeRaceSalted"
+	},
+	{
+		"abr": "SaltedDromedarymeat",
+		"price": 3,
+		"defname": "Meat_DromedarySalted"
+	},
+	{
+		"abr": "SaltedDwarfmeat",
+		"price": 3,
+		"defname": "Meat_LotRD_DwarfStandardRaceSalted"
+	},
+	{
+		"abr": "Saltedelementaldust",
+		"price": 3,
+		"defname": "Meat_TM_LesserEarth_ElementalRSalted"
+	},
+	{
+		"abr": "Saltedelementaldust",
+		"price": 3,
+		"defname": "Meat_TM_Earth_ElementalRSalted"
+	},
+	{
+		"abr": "Saltedelementaldust",
+		"price": 3,
+		"defname": "Meat_TM_GreaterEarth_ElementalRSalted"
+	},
+	{
+		"abr": "Saltedelementaldust",
+		"price": 3,
+		"defname": "Meat_TM_LesserFire_ElementalRSalted"
+	},
+	{
+		"abr": "Saltedelementaldust",
+		"price": 3,
+		"defname": "Meat_TM_Fire_ElementalRSalted"
+	},
+	{
+		"abr": "Saltedelementaldust",
+		"price": 3,
+		"defname": "Meat_TM_GreaterFire_ElementalRSalted"
+	},
+	{
+		"abr": "Saltedelementaldust",
+		"price": 3,
+		"defname": "Meat_TM_LesserWater_ElementalRSalted"
+	},
+	{
+		"abr": "Saltedelementaldust",
+		"price": 3,
+		"defname": "Meat_TM_Water_ElementalRSalted"
+	},
+	{
+		"abr": "Saltedelementaldust",
+		"price": 3,
+		"defname": "Meat_TM_GreaterWater_ElementalRSalted"
+	},
+	{
+		"abr": "Saltedelementaldust",
+		"price": 3,
+		"defname": "Meat_TM_LesserWind_ElementalRSalted"
+	},
+	{
+		"abr": "Saltedelementaldust",
+		"price": 3,
+		"defname": "Meat_TM_Wind_ElementalRSalted"
+	},
+	{
+		"abr": "Saltedelementaldust",
+		"price": 3,
+		"defname": "Meat_TM_GreaterWind_ElementalRSalted"
+	},
+	{
+		"abr": "SaltedElephantmeat",
+		"price": 3,
+		"defname": "Meat_ElephantSalted"
+	},
+	{
+		"abr": "SaltedElfmeat",
+		"price": 3,
+		"defname": "Meat_LotRE_ElfStandardRaceSalted"
+	},
+	{
+		"abr": "SaltedElkmeat",
+		"price": 3,
+		"defname": "Meat_ElkSalted"
+	},
+	{
+		"abr": "SaltedFissionmousemeat",
+		"price": 3,
+		"defname": "Meat_AA_FissionMouseSalted"
+	},
+	{
+		"abr": "Saltedfoxmeat",
+		"price": 3,
+		"defname": "Meat_Fox_FennecSalted"
+	},
+	{
+		"abr": "SaltedGallatrossmeat",
+		"price": 3,
+		"defname": "Meat_AA_GallatrossSalted"
+	},
+	{
+		"abr": "SaltedGazellemeat",
+		"price": 3,
+		"defname": "Meat_GazelleSalted"
+	},
+	{
+		"abr": "SaltedGreatdevourermeat",
+		"price": 3,
+		"defname": "Meat_AA_GreatDevourerSalted"
+	},
+	{
+		"abr": "SaltedGroundrunnermeat",
+		"price": 3,
+		"defname": "Meat_AA_GroundrunnerSalted"
+	},
+	{
+		"abr": "SaltedGuardianmeat",
+		"price": 3,
+		"defname": "Meat_GuardianBastSalted"
+	},
+	{
+		"abr": "SaltedHalf-elfmeat",
+		"price": 3,
+		"defname": "Meat_LotRE_ElfStandardRaceHalfSalted"
+	},
+	{
+		"abr": "SaltedHaremeat",
+		"price": 3,
+		"defname": "Meat_HareSalted"
+	},
+	{
+		"abr": "SaltedHobbitmeat",
+		"price": 3,
+		"defname": "Meat_LotRH_HobbitStandardRaceSalted"
+	},
+	{
+		"abr": "Saltedhorsemeat",
+		"price": 3,
+		"defname": "Meat_LotR_HorseRaceSalted"
+	},
+	{
+		"abr": "SaltedHumanmeat",
+		"price": 1,
+		"defname": "Meat_HumanSalted"
+	},
+	{
+		"abr": "SaltedHuskymeat",
+		"price": 3,
+		"defname": "Meat_HuskySalted"
+	},
+	{
+		"abr": "SaltedIbexmeat",
+		"price": 3,
+		"defname": "Meat_IbexSalted"
+	},
+	{
+		"abr": "SaltedIguanameat",
+		"price": 3,
+		"defname": "Meat_IguanaSalted"
+	},
+	{
+		"abr": "Saltedinsectmeat",
+		"price": 1,
+		"defname": "Meat_MegaspiderSalted"
+	},
+	{
+		"abr": "SaltedIronhuskbeetlemeat",
+		"price": 3,
+		"defname": "Meat_AA_IronhuskBeetleSalted"
+	},
+	{
+		"abr": "SaltedLabradorretrievermeat",
+		"price": 3,
+		"defname": "Meat_LabradorRetrieverSalted"
+	},
+	{
+		"abr": "SaltedLockjawmeat",
+		"price": 3,
+		"defname": "Meat_AA_LockjawSalted"
+	},
+	{
+		"abr": "Saltedlórienvenison",
+		"price": 3,
+		"defname": "Meat_LotRE_DeerMallornSalted"
+	},
+	{
+		"abr": "SaltedLynxmeat",
+		"price": 3,
+		"defname": "Meat_LynxSalted"
+	},
+	{
+		"abr": "SaltedMeadowavemeat",
+		"price": 3,
+		"defname": "Meat_AA_MeadowAveSalted"
+	},
+	{
+		"abr": "SaltedMegaslothmeat",
+		"price": 3,
+		"defname": "Meat_MegaslothSalted"
+	},
+	{
+		"abr": "SaltedMonkeymeat",
+		"price": 3,
+		"defname": "Meat_MonkeySalted"
+	},
+	{
+		"abr": "SaltedMuffalomeat",
+		"price": 3,
+		"defname": "Meat_MuffaloSalted"
+	},
+	{
+		"abr": "Saltedmysterymeat",
+		"price": 3,
+		"defname": "Meat_TM_MinionRSalted"
+	},
+	{
+		"abr": "Saltedmysterymeat",
+		"price": 3,
+		"defname": "Meat_TM_GreaterMinionRSalted"
+	},
+	{
+		"abr": "SaltedNeedlepostmeat",
+		"price": 3,
+		"defname": "Meat_AA_NeedlepostSalted"
+	},
+	{
+		"abr": "SaltedNeedlerollmeat",
+		"price": 3,
+		"defname": "Meat_AA_NeedlerollSalted"
+	},
+	{
+		"abr": "SaltedNightlingmeat",
+		"price": 3,
+		"defname": "Meat_AA_NightlingSalted"
+	},
+	{
+		"abr": "Saltedocularjellymeat",
+		"price": 3,
+		"defname": "AA_OcularJellyMeatSalted"
+	},
+	{
+		"abr": "SaltedOcularjellymeat",
+		"price": 3,
+		"defname": "Meat_AA_OcularJellySalted"
+	},
+	{
+		"abr": "SaltedOvergrowncolossusmeat",
+		"price": 3,
+		"defname": "Meat_AA_OvergrownColossusSalted"
+	},
+	{
+		"abr": "SaltedPanthermeat",
+		"price": 3,
+		"defname": "Meat_PantherSalted"
+	},
+	{
+		"abr": "SaltedPebblemitmeat",
+		"price": 3,
+		"defname": "Meat_AA_PebbleMitSalted"
+	},
+	{
+		"abr": "Saltedponymeat",
+		"price": 3,
+		"defname": "Meat_LotR_PonyRaceSalted"
+	},
+	{
+		"abr": "SaltedPoppimeat",
+		"price": 3,
+		"defname": "Meat_TM_PoppiSalted"
+	},
+	{
+		"abr": "Saltedpork",
+		"price": 3,
+		"defname": "Meat_PigSalted"
+	},
+	{
+		"abr": "saltedpot",
+		"price": 106,
+		"defname": "LotR_SaltBarrel"
+	},
+	{
+		"abr": "SaltedRaccoonmeat",
+		"price": 3,
+		"defname": "Meat_RaccoonSalted"
+	},
+	{
+		"abr": "SaltedRaptorshrimpmeat",
+		"price": 3,
+		"defname": "Meat_AA_RaptorShrimpSalted"
+	},
+	{
+		"abr": "SaltedRatmeat",
+		"price": 3,
+		"defname": "Meat_RatSalted"
+	},
+	{
+		"abr": "SaltedRhinocerosmeat",
+		"price": 3,
+		"defname": "Meat_RhinocerosSalted"
+	},
+	{
+		"abr": "SaltedSandsquidmeat",
+		"price": 3,
+		"defname": "Meat_AA_SandSquidSalted"
+	},
+	{
+		"abr": "SaltedShockgoatmeat",
+		"price": 3,
+		"defname": "Meat_AA_ShockGoatSalted"
+	},
+	{
+		"abr": "SaltedSlurrypedemeat",
+		"price": 3,
+		"defname": "Meat_AA_SlurrypedeSalted"
+	},
+	{
+		"abr": "SaltedSquirrelmeat",
+		"price": 3,
+		"defname": "Meat_SquirrelSalted"
+	},
+	{
+		"abr": "Saltedstone",
+		"price": 3,
+		"defname": "Meat_TM_Lesser_SentinelRSalted"
+	},
+	{
+		"abr": "Saltedstone",
+		"price": 3,
+		"defname": "Meat_TM_SentinelRSalted"
+	},
+	{
+		"abr": "Saltedstone",
+		"price": 3,
+		"defname": "Meat_TM_Greater_SentinelRSalted"
+	},
+	{
+		"abr": "SaltedSummitcrabmeat",
+		"price": 3,
+		"defname": "Meat_AA_SummitCrabSalted"
+	},
+	{
+		"abr": "SaltedTetraslugmeat",
+		"price": 3,
+		"defname": "Meat_AA_TetraSlugSalted"
+	},
+	{
+		"abr": "SaltedThrumbomeat",
+		"price": 3,
+		"defname": "Meat_ThrumboSalted"
+	},
+	{
+		"abr": "SaltedTortoisemeat",
+		"price": 3,
+		"defname": "Meat_TortoiseSalted"
+	},
+	{
+		"abr": "SaltedTurkeymeat",
+		"price": 3,
+		"defname": "Meat_TurkeySalted"
+	},
+	{
+		"abr": "Saltedvenison",
+		"price": 3,
+		"defname": "Meat_DeerSalted"
+	},
+	{
+		"abr": "SaltedWargmeat",
+		"price": 3,
+		"defname": "Meat_WargSalted"
+	},
+	{
+		"abr": "SaltedWildpawnmeat",
+		"price": 3,
+		"defname": "Meat_AA_WildpawnSalted"
+	},
+	{
+		"abr": "SaltedWildpodmeat",
+		"price": 3,
+		"defname": "Meat_AA_WildpodSalted"
+	},
+	{
+		"abr": "Saltedwolfmeat",
+		"price": 3,
+		"defname": "Meat_Wolf_TimberSalted"
+	},
+	{
+		"abr": "Saltedwolfmeat",
+		"price": 3,
+		"defname": "Meat_TM_Dire_WolfRSalted"
+	},
+	{
+		"abr": "SaltedYorkshireterriermeat",
+		"price": 3,
+		"defname": "Meat_YorkshireTerrierSalted"
+	},
+	{
+		"abr": "sandsquid",
+		"price": 583,
+		"defname": "AA_SandSquid"
+	},
+	{
+		"abr": "Sandsquidmeat",
+		"price": 3,
+		"defname": "Meat_AA_SandSquid"
+	},
+	{
+		"abr": "sandbags",
+		"price": 16,
+		"defname": "Sandbags"
+	},
+	{
+		"abr": "sandstoneblocks",
+		"price": 2,
+		"defname": "BlocksSandstone"
+	},
+	{
+		"abr": "sandstonechunk",
+		"price": 13,
+		"defname": "ChunkSandstone"
+	},
+	{
+		"abr": "sarcophagus",
+		"price": 214,
+		"defname": "Sarcophagus"
+	},
+	{
+		"abr": "ScaledBoots",
+		"price": 129,
+		"defname": "MedTimes_Boots_Scaled"
+	},
+	{
+		"abr": "ScaledBoots(Nan)",
+		"price": 5967,
+		"defname": "MedTimes_Boots_Scaled_Nan"
+	},
+	{
+		"abr": "ScaledGloves",
+		"price": 129,
+		"defname": "MedTimes_Gloves_Scaled"
+	},
+	{
+		"abr": "ScaledGloves(Nan)",
+		"price": 5967,
+		"defname": "MedTimes_Gloves_Scaled_Nan"
+	},
+	{
+		"abr": "ScaledHauberk",
+		"price": 383,
+		"defname": "MedTimes_Hauberk"
+	},
+	{
+		"abr": "ScaledHauberk(Nan)",
+		"price": 6225,
+		"defname": "MedTimes_Hauberk_Nan"
+	},
+	{
+		"abr": "SchoolTable",
+		"price": 280,
+		"defname": "SchoolTable"
+	},
+	{
+		"abr": "scroll",
+		"price": 41,
+		"defname": "Jecrell_LeatherScroll"
+	},
+	{
+		"abr": "sculptor'stable",
+		"price": 408,
+		"defname": "TableSculpting"
+	},
+	{
+		"abr": "SeedofRegrowth",
+		"price": 2,
+		"defname": "SeedofRegrowth"
+	},
+	{
+		"abr": "shelf",
+		"price": 104,
+		"defname": "Shelf"
+	},
+	{
+		"abr": "shieldbelt",
+		"price": 633,
+		"defname": "Apparel_ShieldBelt"
+	},
+	{
+		"abr": "shockgoat",
+		"price": 583,
+		"defname": "AA_ShockGoat"
+	},
+	{
+		"abr": "Shockgoatmeat",
+		"price": 3,
+		"defname": "Meat_AA_ShockGoat"
+	},
+	{
+		"abr": "shortbow",
+		"price": 114,
+		"defname": "Bow_Short"
+	},
+	{
+		"abr": "ShortSword",
+		"price": 281,
+		"defname": "MedTimes_Melee_ShortSword"
+	},
+	{
+		"abr": "ShortSword(Nan)",
+		"price": 6117,
+		"defname": "MedTimes_Melee_ShortSword_Nan"
+	},
+	{
+		"abr": "ShrineoftheCreator",
+		"price": 642,
+		"defname": "MedTimes_Shrine_Creator"
+	},
+	{
+		"abr": "ShrinetoPangLi",
+		"price": 642,
+		"defname": "MedTimes_Shrine_PangLi"
+	},
+	{
+		"abr": "ShrinetotheRandomNumberGod",
+		"price": 525,
+		"defname": "MedTimes_Shrine_RandomNumberGod"
+	},
+	{
+		"abr": "silvan-elfarmor",
+		"price": 269,
+		"defname": "LotRE_ElfApparel_BattleArmorWood"
+	},
+	{
+		"abr": "silvan-elfhelmet",
+		"price": 342,
+		"defname": "LotRE_ElfApparel_BattleHelmetWood"
+	},
+	{
+		"abr": "silver",
+		"price": 2,
+		"defname": "Silver"
+	},
+	{
+		"abr": "simplemeal",
+		"price": 25,
+		"defname": "MealSimple"
+	},
+	{
+		"abr": "simpleresearchbench",
+		"price": 342,
+		"defname": "SimpleResearchBench"
+	},
+	{
+		"abr": "skillbook",
+		"price": 6667,
+		"defname": "Jecrell_Guidebook"
+	},
+	{
+		"abr": "skillbook",
+		"price": 6667,
+		"defname": "Jecrell_Skillbook"
+	},
+	{
+		"abr": "skullmask",
+		"price": 113,
+		"defname": "ROMB_Apparel_SkullMask"
+	},
+	{
+		"abr": "skullthrone",
+		"price": 1675,
+		"defname": "BoneThrone"
+	},
+	{
+		"abr": "slateblocks",
+		"price": 2,
+		"defname": "BlocksSlate"
+	},
+	{
+		"abr": "slatechunk",
+		"price": 14,
+		"defname": "ChunkSlate"
+	},
+	{
+		"abr": "sleeptotem",
+		"price": 1,
+		"defname": "Cults_SleepTotem"
+	},
+	{
+		"abr": "slurrypede",
+		"price": 1083,
+		"defname": "AA_Slurrypede"
+	},
+	{
+		"abr": "Slurrypedemeat",
+		"price": 3,
+		"defname": "Meat_AA_Slurrypede"
+	},
+	{
+		"abr": "SmallIceSculpture",
+		"price": 342,
+		"defname": "MedTimes_IceSculptureSmall"
+	},
+	{
+		"abr": "smallsculpture",
+		"price": 275,
+		"defname": "SculptureSmall"
+	},
+	{
+		"abr": "SmallTable",
+		"price": 123,
+		"defname": "MedTimes_SmallTable"
+	},
+	{
+		"abr": "Smoke-house",
+		"price": 246,
+		"defname": "MedTimes_Smokehouse"
+	},
+	{
+		"abr": "smokeleafjoint",
+		"price": 18,
+		"defname": "SmokeleafJoint"
+	},
+	{
+		"abr": "smokeleafleaves",
+		"price": 3,
+		"defname": "SmokeleafLeaves"
+	},
+	{
+		"abr": "SmoothboreMusket",
+		"price": 333,
+		"defname": "MedTimes_Ranged_Musket"
+	},
+	{
+		"abr": "SmoothboreMusket(Nan)",
+		"price": 6225,
+		"defname": "MedTimes_Ranged_Musket_Nan"
+	},
+	{
+		"abr": "snowhare",
+		"price": 83,
+		"defname": "Snowhare"
+	},
+	{
+		"abr": "SocietyGodKing'sMask(Art)",
+		"price": 5167,
+		"defname": "MedTimes_Helm_GodKingGreen_Art"
+	},
+	{
+		"abr": "SocietyGodKing'sMask(Leg)",
+		"price": 11000,
+		"defname": "MedTimes_Helm_GodKingGreen_Leg"
+	},
+	{
+		"abr": "SocietyGodKing'sPlate(Art)",
+		"price": 8333,
+		"defname": "MedTimes_BodyArmour_GodKingGreen_Art"
+	},
+	{
+		"abr": "SocietyGodKing'sPlate(Leg)",
+		"price": 14167,
+		"defname": "MedTimes_BodyArmour_GodKingGreen_Leg"
+	},
+	{
+		"abr": "SocietyRoyalPlatedArmour",
+		"price": 292,
+		"defname": "MedTimes_RoyalPlated_CapedGreen"
+	},
+	{
+		"abr": "SocietyRoyalPlatedArmour(Nan)",
+		"price": 6133,
+		"defname": "MedTimes_RoyalPlated_CapedGreen_Nan"
+	},
+	{
+		"abr": "SocietyTabard",
+		"price": 173,
+		"defname": "MedTimes_ShellBody_TabardGreen"
+	},
+	{
+		"abr": "spear",
+		"price": 322,
+		"defname": "MeleeWeapon_Spear"
+	},
+	{
+		"abr": "spelopede",
+		"price": 333,
+		"defname": "Spelopede"
+	},
+	{
+		"abr": "spiketrap",
+		"price": 136,
+		"defname": "TrapSpike"
+	},
+	{
+		"abr": "squirrel",
+		"price": 58,
+		"defname": "Squirrel"
+	},
+	{
+		"abr": "Squirrelmeat",
+		"price": 3,
+		"defname": "Meat_Squirrel"
+	},
+	{
+		"abr": "StaffofBlazingPower",
+		"price": 6250,
+		"defname": "TM_BlazingPowerStaff"
+	},
+	{
+		"abr": "StaffoftheDefender",
+		"price": 5583,
+		"defname": "TM_DefenderStaff"
+	},
+	{
+		"abr": "steel",
+		"price": 3,
+		"defname": "Steel"
+	},
+	{
+		"abr": "SteelBow",
+		"price": 100,
+		"defname": "MedTimes_SteelBow"
+	},
+	{
+		"abr": "SteelCaltrops",
+		"price": 34,
+		"defname": "MedTimes_Trap_Caltrops"
+	},
+	{
+		"abr": "SteelPlatedBoots",
+		"price": 91,
+		"defname": "MedTimes_Boots_Plated"
+	},
+	{
+		"abr": "SteelPlatedBoots(Nan)",
+		"price": 5933,
+		"defname": "MedTimes_Boots_Plated_Nan"
+	},
+	{
+		"abr": "SteelPlatedHead-wrap",
+		"price": 91,
+		"defname": "MedTimes_Helm_Headwrap"
+	},
+	{
+		"abr": "SteelPlatedHead-wrap(Nan)",
+		"price": 5933,
+		"defname": "MedTimes_Helm_Headwrap_Nan"
+	},
+	{
+		"abr": "SteelPlatesArmour",
+		"price": 206,
+		"defname": "MedTimes_PlateJack"
+	},
+	{
+		"abr": "SteelPlatesArmour(Nan)",
+		"price": 6042,
+		"defname": "MedTimes_PlateJack_Nan"
+	},
+	{
+		"abr": "stomach",
+		"price": 1500,
+		"defname": "Stomach"
+	},
+	{
+		"abr": "stone",
+		"price": 3,
+		"defname": "Meat_TM_Lesser_SentinelR"
+	},
+	{
+		"abr": "stone",
+		"price": 3,
+		"defname": "Meat_TM_SentinelR"
+	},
+	{
+		"abr": "stone",
+		"price": 3,
+		"defname": "Meat_TM_Greater_SentinelR"
+	},
+	{
+		"abr": "StoneHearth",
+		"price": 256,
+		"defname": "MedTimes_StoneHearth"
+	},
+	{
+		"abr": "StoneQuarry",
+		"price": 330,
+		"defname": "MedTimes_StoneQuarry"
+	},
+	{
+		"abr": "stoneshelf",
+		"price": 171,
+		"defname": "Jecrell_StoneShelf"
+	},
+	{
+		"abr": "stonecutter'stable",
+		"price": 350,
+		"defname": "TableStonecutter"
+	},
+	{
+		"abr": "stool",
+		"price": 86,
+		"defname": "Stool"
+	},
+	{
+		"abr": "StoragePallet",
+		"price": 8,
+		"defname": "MedTimes_StoragePallet"
+	},
+	{
+		"abr": "StoragePot",
+		"price": 17,
+		"defname": "MedTimes_StoragePotPlaced"
+	},
+	{
+		"abr": "StoragePot",
+		"price": 17,
+		"defname": "MedTimes_StoragePot"
+	},
+	{
+		"abr": "StreetLamp",
+		"price": 57,
+		"defname": "MedTimes_StreetLamp"
+	},
+	{
+		"abr": "StuffedDoll",
+		"price": 59,
+		"defname": "MedTimes_StuffedDoll"
+	},
+	{
+		"abr": "SuccubusSpell:Scorn",
+		"price": 2750,
+		"defname": "SpellOf_Scorn"
+	},
+	{
+		"abr": "SummerCape",
+		"price": 58,
+		"defname": "MedTimes_ShellBody_Cape"
+	},
+	{
+		"abr": "summitcrab",
+		"price": 2500,
+		"defname": "AA_SummitCrab"
+	},
+	{
+		"abr": "Summitcrabmeat",
+		"price": 3,
+		"defname": "Meat_AA_SummitCrab"
+	},
+	{
+		"abr": "SummonerSpell:SummonPoppi",
+		"price": 3767,
+		"defname": "SpellOf_SummonPoppi"
+	},
+	{
+		"abr": "SuspendedStripedTrousers",
+		"price": 227,
+		"defname": "MedTimes_AppBody_TrousersStriped"
+	},
+	{
+		"abr": "SuspendedTrousers",
+		"price": 227,
+		"defname": "MedTimes_AppBody_Trousers"
+	},
+	{
+		"abr": "synthread",
+		"price": 7,
+		"defname": "Synthread"
+	},
+	{
+		"abr": "syrrium",
+		"price": 75,
+		"defname": "TM_Syrrium"
+	},
+	{
+		"abr": "table(1x2)",
+		"price": 98,
+		"defname": "Table1x2c"
+	},
+	{
+		"abr": "table(2x2)",
+		"price": 176,
+		"defname": "Table2x2c"
+	},
+	{
+		"abr": "table(2x4)",
+		"price": 333,
+		"defname": "Table2x4c"
+	},
+	{
+		"abr": "table(3x3)",
+		"price": 350,
+		"defname": "Table3x3c"
+	},
+	{
+		"abr": "tablet",
+		"price": 41,
+		"defname": "Jecrell_Tablet"
+	},
+	{
+		"abr": "TailoredBoots",
+		"price": 13,
+		"defname": "MedTimes_Boots_Tailored"
+	},
+	{
+		"abr": "TailoredGloves",
+		"price": 13,
+		"defname": "MedTimes_Gloves_Tailored"
+	},
+	{
+		"abr": "TailoredSocks",
+		"price": 2,
+		"defname": "MedTimes_Socks_Tailored"
+	},
+	{
+		"abr": "TailoringStation",
+		"price": 306,
+		"defname": "MedTimes_TailoringStation"
+	},
+	{
+		"abr": "TalentBreaker(Art)",
+		"price": 5000,
+		"defname": "MedTimes_Melee_ClubTalentBreaker_Art"
+	},
+	{
+		"abr": "TalentBreaker(Leg)",
+		"price": 10833,
+		"defname": "MedTimes_Melee_ClubTalentBreaker_Leg"
+	},
+	{
+		"abr": "TechnoBoots(Art)",
+		"price": 7500,
+		"defname": "MedTimes_Boots_Techno_Art"
+	},
+	{
+		"abr": "TechnoBoots(Leg)",
+		"price": 13333,
+		"defname": "MedTimes_Boots_Techno_Leg"
+	},
+	{
+		"abr": "TechnoGauntlets(Art)",
+		"price": 7500,
+		"defname": "MedTimes_Gauntlets_Techno_Art"
+	},
+	{
+		"abr": "TechnoGauntlets(Leg)",
+		"price": 13333,
+		"defname": "MedTimes_Gauntlets_Techno_Leg"
+	},
+	{
+		"abr": "TechnoSocks(Art)",
+		"price": 1333,
+		"defname": "MedTimes_Socks_Techno_Art"
+	},
+	{
+		"abr": "TechnoSocks(Leg)",
+		"price": 7167,
+		"defname": "MedTimes_Socks_Techno_Leg"
+	},
+	{
+		"abr": "TechnoSword(Art)",
+		"price": 6667,
+		"defname": "MedTimes_Melee_SwordTechno_Art"
+	},
+	{
+		"abr": "TechnoSword(Leg)",
+		"price": 12500,
+		"defname": "MedTimes_Melee_SwordTechno_Leg"
+	},
+	{
+		"abr": "TechnomancerSpell:KineticShield",
+		"price": 833,
+		"defname": "SpellOf_TechnoShield"
+	},
+	{
+		"abr": "TechnomancerSpell:OrbitalStrike",
+		"price": 2833,
+		"defname": "SpellOf_OrbitalStrike"
+	},
+	{
+		"abr": "TechnomancerSpell:Overdrive",
+		"price": 800,
+		"defname": "SpellOf_Overdrive"
+	},
+	{
+		"abr": "TechnomancerSpell:Sabotage",
+		"price": 667,
+		"defname": "SpellOf_Sabotage"
+	},
+	{
+		"abr": "telescope",
+		"price": 583,
+		"defname": "Telescope"
+	},
+	{
+		"abr": "tentacle",
+		"price": 67,
+		"defname": "Cults_TentacleArm"
+	},
+	{
+		"abr": "tetraslug",
+		"price": 6667,
+		"defname": "AA_TetraSlug"
+	},
+	{
+		"abr": "Tetraslugmeat",
+		"price": 3,
+		"defname": "Meat_AA_TetraSlug"
+	},
+	{
+		"abr": "TheBlackBow(Art)",
+		"price": 7500,
+		"defname": "MedTimes_Ranged_BlackBow_Art"
+	},
+	{
+		"abr": "TheBlackBow(Leg)",
+		"price": 13333,
+		"defname": "MedTimes_Ranged_BlackBow_Leg"
+	},
+	{
+		"abr": "TheHappyMerchant(Art)",
+		"price": 8500,
+		"defname": "MedTimes_Acc_HappyMerchant_Art"
+	},
+	{
+		"abr": "TheHappyMerchant(Leg)",
+		"price": 14333,
+		"defname": "MedTimes_Acc_HappyMerchant_Leg"
+	},
+	{
+		"abr": "TheKinginYellow",
+		"price": 33,
+		"defname": "Cults_TheKingInYellow"
+	},
+	{
+		"abr": "TheWargod(Art)",
+		"price": 7667,
+		"defname": "MedTimes_Melee_SwordWargod_Art"
+	},
+	{
+		"abr": "TheWargod(Leg)",
+		"price": 13500,
+		"defname": "MedTimes_Melee_SwordWargod_Leg"
+	},
+	{
+		"abr": "thermadon",
+		"price": 1083,
+		"defname": "AA_Thermadon"
+	},
+	{
+		"abr": "ThrumBow",
+		"price": 7467,
+		"defname": "TM_ThrumBow"
+	},
+	{
+		"abr": "thrumbo",
+		"price": 6667,
+		"defname": "Thrumbo"
+	},
+	{
+		"abr": "thrumboaxe",
+		"price": 7750,
+		"defname": "TM_ThrumboAxe"
+	},
+	{
+		"abr": "thrumbohorn",
+		"price": 1333,
+		"defname": "ThrumboHorn"
+	},
+	{
+		"abr": "Thrumbomeat",
+		"price": 3,
+		"defname": "Meat_Thrumbo"
+	},
+	{
+		"abr": "thrumbofur",
+		"price": 23,
+		"defname": "Leather_Thrumbo"
+	},
+	{
+		"abr": "timberwolf",
+		"price": 583,
+		"defname": "Wolf_Timber"
+	},
+	{
+		"abr": "toolcabinet",
+		"price": 592,
+		"defname": "ToolCabinet"
+	},
+	{
+		"abr": "Toolbelt",
+		"price": 227,
+		"defname": "MedTimes_Acc_Toolbelt"
+	},
+	{
+		"abr": "Toolbelt(Nan)",
+		"price": 6067,
+		"defname": "MedTimes_Acc_Toolbelt_Nan"
+	},
+	{
+		"abr": "torchlamp",
+		"price": 41,
+		"defname": "TorchLamp"
+	},
+	{
+		"abr": "TornScript:Bard",
+		"price": 2917,
+		"defname": "Torn_BookOfBard"
+	},
+	{
+		"abr": "TornScript:Demonology",
+		"price": 2917,
+		"defname": "Torn_BookOfDemons"
+	},
+	{
+		"abr": "TornScript:Enchanter",
+		"price": 2917,
+		"defname": "Torn_BookOfEnchanter"
+	},
+	{
+		"abr": "TornScript:Fire",
+		"price": 2917,
+		"defname": "Torn_BookOfInnerFire"
+	},
+	{
+		"abr": "TornScript:Geomancer",
+		"price": 2917,
+		"defname": "Torn_BookOfEarth"
+	},
+	{
+		"abr": "TornScript:Hemomancy",
+		"price": 2917,
+		"defname": "Torn_BookOfHemomancy"
+	},
+	{
+		"abr": "TornScript:Holy",
+		"price": 2917,
+		"defname": "Torn_BookOfValiant"
+	},
+	{
+		"abr": "TornScript:Lightning",
+		"price": 2917,
+		"defname": "Torn_BookOfStormBorn"
+	},
+	{
+		"abr": "TornScript:Nature",
+		"price": 2917,
+		"defname": "Torn_BookOfNature"
+	},
+	{
+		"abr": "TornScript:Necromancy",
+		"price": 2917,
+		"defname": "Torn_BookOfUndead"
+	},
+	{
+		"abr": "TornScript:Power",
+		"price": 2917,
+		"defname": "Torn_BookOfArcanist"
+	},
+	{
+		"abr": "TornScript:Priest",
+		"price": 2917,
+		"defname": "Torn_BookOfPriest"
+	},
+	{
+		"abr": "TornScript:Summoning",
+		"price": 2917,
+		"defname": "Torn_BookOfSummoner"
+	},
+	{
+		"abr": "TornScript:Technomancy",
+		"price": 2917,
+		"defname": "Torn_BookOfMagitech"
+	},
+	{
+		"abr": "TornScript:Water",
+		"price": 2917,
+		"defname": "Torn_BookOfHeartOfFrost"
+	},
+	{
+		"abr": "tortoise",
+		"price": 333,
+		"defname": "Tortoise"
+	},
+	{
+		"abr": "tortoiseegg(fert.)",
+		"price": 38,
+		"defname": "EggTortoiseFertilized"
+	},
+	{
+		"abr": "Tortoisemeat",
+		"price": 3,
+		"defname": "Meat_Tortoise"
+	},
+	{
+		"abr": "Torvald'sHeadwrap(Art)",
+		"price": 5500,
+		"defname": "MedTimes_Helm_Torvald_Art"
+	},
+	{
+		"abr": "Torvald'sHeadwrap(Leg)",
+		"price": 11333,
+		"defname": "MedTimes_Helm_Torvald_Leg"
+	},
+	{
+		"abr": "TribalBoots",
+		"price": 8,
+		"defname": "MedTimes_Boots_Tribal"
+	},
+	{
+		"abr": "tribalheaddress",
+		"price": 203,
+		"defname": "Apparel_TribalHeaddress"
+	},
+	{
+		"abr": "TribalWraps",
+		"price": 8,
+		"defname": "MedTimes_Gloves_Tribal"
+	},
+	{
+		"abr": "tribalwear",
+		"price": 211,
+		"defname": "Apparel_TribalA"
+	},
+	{
+		"abr": "T-shirt",
+		"price": 143,
+		"defname": "Apparel_BasicShirt"
+	},
+	{
+		"abr": "Tunic",
+		"price": 227,
+		"defname": "MedTimes_AppBody_Tunic"
+	},
+	{
+		"abr": "tuque",
+		"price": 91,
+		"defname": "Apparel_Tuque"
+	},
+	{
+		"abr": "turkey",
+		"price": 167,
+		"defname": "Turkey"
+	},
+	{
+		"abr": "turkeyegg(fert.)",
+		"price": 18,
+		"defname": "EggTurkeyFertilized"
+	},
+	{
+		"abr": "Turkeymeat",
+		"price": 3,
+		"defname": "Meat_Turkey"
+	},
+	{
+		"abr": "UnfinishedArcaneBook",
+		"price": 4392,
+		"defname": "UnfinishedAdvArcane"
+	},
+	{
+		"abr": "UnfinishedMartialBook",
+		"price": 3425,
+		"defname": "UnfinishedMartial"
+	},
+	{
+		"abr": "UnfinishedTornScript",
+		"price": 2333,
+		"defname": "UnfinishedArcane"
+	},
+	{
+		"abr": "unrefinedmagicyte",
+		"price": 8,
+		"defname": "RawMagicyte"
+	},
+	{
+		"abr": "uranium",
+		"price": 10,
+		"defname": "Uranium"
+	},
+	{
+		"abr": "venison",
+		"price": 3,
+		"defname": "Meat_Deer"
+	},
+	{
+		"abr": "vent",
+		"price": 90,
+		"defname": "Vent"
+	},
+	{
+		"abr": "Vidar'sCleaver(Leg)",
+		"price": 15000,
+		"defname": "MedTimes_Melee_AxeVidar_Leg"
+	},
+	{
+		"abr": "Viscious(Art)",
+		"price": 7000,
+		"defname": "MedTimes_Melee_SwordVicious_Art"
+	},
+	{
+		"abr": "Viscious(Leg)",
+		"price": 12833,
+		"defname": "MedTimes_Melee_SwordVicious_Leg"
+	},
+	{
+		"abr": "VoidHammer(Leg)",
+		"price": 14667,
+		"defname": "MedTimes_Melee_HammerVoid_Leg"
+	},
+	{
+		"abr": "wall",
+		"price": 17,
+		"defname": "Wall"
+	},
+	{
+		"abr": "WandofFire",
+		"price": 800,
+		"defname": "TM_FireWand"
+	},
+	{
+		"abr": "WandofIce",
+		"price": 800,
+		"defname": "TM_IceWand"
+	},
+	{
+		"abr": "WandofLightning",
+		"price": 800,
+		"defname": "TM_LightningWand"
+	},
+	{
+		"abr": "Wanderer'sCloak",
+		"price": 1958,
+		"defname": "TM_MaestersCloak"
+	},
+	{
+		"abr": "WarKnife",
+		"price": 450,
+		"defname": "MedTimes_Melee_WarKnifeHiQ"
+	},
+	{
+		"abr": "WarKnife(Nan)",
+		"price": 6292,
+		"defname": "MedTimes_Melee_WarKnifeHiQ_Nan"
+	},
+	{
+		"abr": "warmask",
+		"price": 101,
+		"defname": "Apparel_WarMask"
+	},
+	{
+		"abr": "warveil",
+		"price": 75,
+		"defname": "Apparel_WarVeil"
+	},
+	{
+		"abr": "WarbandRoyalPlatedArmour",
+		"price": 292,
+		"defname": "MedTimes_RoyalPlated_CapedOrange"
+	},
+	{
+		"abr": "WarbandRoyalPlatedArmour(Nan)",
+		"price": 6133,
+		"defname": "MedTimes_RoyalPlated_CapedOrange_Nan"
+	},
+	{
+		"abr": "WarbandTabard",
+		"price": 173,
+		"defname": "MedTimes_ShellBody_TabardOrange"
+	},
+	{
+		"abr": "WarbourneTabard",
+		"price": 173,
+		"defname": "MedTimes_App_TabardRed"
+	},
+	{
+		"abr": "Warbourne'sBoots",
+		"price": 73,
+		"defname": "MedTimes_Boots_Warbourne"
+	},
+	{
+		"abr": "Warbourne'sBoots(Nan)",
+		"price": 5908,
+		"defname": "MedTimes_Boots_Warbourne_Nan"
+	},
+	{
+		"abr": "Warbourne'sChain",
+		"price": 146,
+		"defname": "MedTimes_Warbourne"
+	},
+	{
+		"abr": "Warbourne'sChain(Nan)",
+		"price": 5983,
+		"defname": "MedTimes_Warbourne_Nan"
+	},
+	{
+		"abr": "Warbourne'sGauntlets",
+		"price": 73,
+		"defname": "MedTimes_Gauntlets_Warbourne"
+	},
+	{
+		"abr": "Warbourne'sGauntlets(Nan)",
+		"price": 5908,
+		"defname": "MedTimes_Gauntlets_Warbourne_Nan"
+	},
+	{
+		"abr": "Warbourne'sHelm",
+		"price": 73,
+		"defname": "MedTimes_Helm_Warbourne"
+	},
+	{
+		"abr": "Warbourne'sHelm(Nan)",
+		"price": 5908,
+		"defname": "MedTimes_Helm_Warbourne_Nan"
+	},
+	{
+		"abr": "Warbourne'sShieldBelt",
+		"price": 383,
+		"defname": "MedTimes_WarbourneShield"
+	},
+	{
+		"abr": "warg",
+		"price": 750,
+		"defname": "Warg"
+	},
+	{
+		"abr": "Wargmeat",
+		"price": 3,
+		"defname": "Meat_Warg"
+	},
+	{
+		"abr": "Wargod'sCrest(Art)",
+		"price": 9000,
+		"defname": "MedTimes_Acc_WargodCrest_Art"
+	},
+	{
+		"abr": "Wargod'sCrest(Leg)",
+		"price": 14833,
+		"defname": "MedTimes_Acc_WargodCrest_Leg"
+	},
+	{
+		"abr": "Warhammer",
+		"price": 492,
+		"defname": "MedTimes_Melee_WarHammer"
+	},
+	{
+		"abr": "Warhammer(Nan)",
+		"price": 6333,
+		"defname": "MedTimes_Melee_WarHammer_Nan"
+	},
+	{
+		"abr": "WarlockSpell:PsychicShock",
+		"price": 3000,
+		"defname": "SpellOf_PsychicShock"
+	},
+	{
+		"abr": "Warlord'sBoots(Art)",
+		"price": 5167,
+		"defname": "MedTimes_Boots_Warlord_Art"
+	},
+	{
+		"abr": "Warlord'sBoots(Leg)",
+		"price": 11000,
+		"defname": "MedTimes_Boots_Warlord_Leg"
+	},
+	{
+		"abr": "Warlord'sGauntlets(Art)",
+		"price": 5167,
+		"defname": "MedTimes_Gauntlets_Warlord_Art"
+	},
+	{
+		"abr": "Warlord'sGauntlets(Leg)",
+		"price": 11000,
+		"defname": "MedTimes_Gauntlets_Warlord_Leg"
+	},
+	{
+		"abr": "Warlord'sMask(Art)",
+		"price": 5167,
+		"defname": "MedTimes_Helm_Warlord_Art"
+	},
+	{
+		"abr": "Warlord'sMask(Leg)",
+		"price": 11000,
+		"defname": "MedTimes_Helm_Warlord_Leg"
+	},
+	{
+		"abr": "Warlord'sPlate(Art)",
+		"price": 8333,
+		"defname": "MedTimes_BodyArmour_Warlord_Art"
+	},
+	{
+		"abr": "Warlord'sPlate(Leg)",
+		"price": 14167,
+		"defname": "MedTimes_BodyArmour_Warlord_Leg"
+	},
+	{
+		"abr": "WeakStew",
+		"price": 17,
+		"defname": "MedTimes_MealWeakStew"
+	},
+	{
+		"abr": "wildboar",
+		"price": 333,
+		"defname": "WildBoar"
+	},
+	{
+		"abr": "wildpawn",
+		"price": 333,
+		"defname": "AA_Wildpawn"
+	},
+	{
+		"abr": "Wildpawnmeat",
+		"price": 3,
+		"defname": "Meat_AA_Wildpawn"
+	},
+	{
+		"abr": "wildpawnsporeclump(fert.)",
+		"price": 15,
+		"defname": "AA_WildpawnSpores"
+	},
+	{
+		"abr": "wildpod",
+		"price": 667,
+		"defname": "AA_Wildpod"
+	},
+	{
+		"abr": "Wildpodmeat",
+		"price": 3,
+		"defname": "Meat_AA_Wildpod"
+	},
+	{
+		"abr": "wildpodsporeclump(fert.)",
+		"price": 15,
+		"defname": "AA_WildpodSpores"
+	},
+	{
+		"abr": "WinterBoots",
+		"price": 13,
+		"defname": "MedTimes_Boots_Winter"
+	},
+	{
+		"abr": "WinterCloak",
+		"price": 58,
+		"defname": "MedTimes_ShellBody_Cloak"
+	},
+	{
+		"abr": "WinterGloves",
+		"price": 13,
+		"defname": "MedTimes_Gloves_Winter"
+	},
+	{
+		"abr": "WinterHat",
+		"price": 153,
+		"defname": "MedTimes_Headgear_WinterHat"
+	},
+	{
+		"abr": "wolfmeat",
+		"price": 3,
+		"defname": "Meat_Wolf_Timber"
+	},
+	{
+		"abr": "wolfmeat",
+		"price": 3,
+		"defname": "Meat_TM_Dire_WolfR"
+	},
+	{
+		"abr": "wolfskin",
+		"price": 5,
+		"defname": "Leather_Wolf"
+	},
+	{
+		"abr": "wood",
+		"price": 2,
+		"defname": "WoodLog"
+	},
+	{
+		"abr": "WoodPitchGlue",
+		"price": 25,
+		"defname": "MedTimes_WoodPitchGlue"
+	},
+	{
+		"abr": "WoodenBarricade",
+		"price": 25,
+		"defname": "MedTimes_Trap_WoodenBarricade"
+	},
+	{
+		"abr": "WoodenBoots",
+		"price": 68,
+		"defname": "MedTimes_Boots_Wooden"
+	},
+	{
+		"abr": "WoodenBoots(Nan)",
+		"price": 5908,
+		"defname": "MedTimes_Boots_Wooden_Nan"
+	},
+	{
+		"abr": "WoodenBracers",
+		"price": 68,
+		"defname": "MedTimes_Bracers_Wooden"
+	},
+	{
+		"abr": "WoodenBracers(Nan)",
+		"price": 5908,
+		"defname": "MedTimes_Bracers_Wooden_Nan"
+	},
+	{
+		"abr": "WoodenHelmet",
+		"price": 68,
+		"defname": "MedTimes_Helm_Wooden"
+	},
+	{
+		"abr": "WoodenHelmet(Nan)",
+		"price": 5908,
+		"defname": "MedTimes_Helm_Wooden_Nan"
+	},
+	{
+		"abr": "WoodenPlates",
+		"price": 100,
+		"defname": "MedTimes_WoodenPlates"
+	},
+	{
+		"abr": "WoodenPlates(Nan)",
+		"price": 5942,
+		"defname": "MedTimes_WoodenPlates_Nan"
+	},
+	{
+		"abr": "wort",
+		"price": 4,
+		"defname": "Wort"
+	},
+	{
+		"abr": "writer'stable",
+		"price": 542,
+		"defname": "RimWriter_TableWriting"
+	},
+	{
+		"abr": "yorkshireterrier",
+		"price": 167,
+		"defname": "YorkshireTerrier"
+	},
+	{
+		"abr": "Yorkshireterriermeat",
+		"price": 3,
+		"defname": "Meat_YorkshireTerrier"
 	}
 	],
-	"total": 57
+	"total": 1157
 }
