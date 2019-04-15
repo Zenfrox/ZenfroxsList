@@ -191,11 +191,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 700,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "raid",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -207,16 +202,6 @@
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "infestation",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
@@ -241,19 +226,19 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "pawn",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "animal",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "gambleskill",
 		"price": 1500,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "addtrait",
+		"price": 3500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "changegender",
+		"price": 600,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "dwarf",
@@ -262,11 +247,6 @@
 	},
 	{
 		"abr": "uristbrigade",
-		"price": 900,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "cheesecat",
 		"price": 900,
 		"karmatype": "Good"
 	},
@@ -286,5 +266,5 @@
 		"karmatype": "Bad"
 	}
 	],
-	"total": 57
+	"total": 53
 }
