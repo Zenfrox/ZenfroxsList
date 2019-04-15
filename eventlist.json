@@ -116,11 +116,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "genderswap",
-		"price": 150,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "inspiration",
 		"price": 150,
 		"karmatype": "Good"
@@ -233,6 +228,11 @@
 	{
 		"abr": "addtrait",
 		"price": 3500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "removetrait",
+		"price": 5500,
 		"karmatype": "Good"
 	},
 	{
