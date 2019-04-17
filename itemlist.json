@@ -313,6 +313,12 @@
 		"defname": "Meat_AA_ArcticLion"
 	},
 	{
+		"abr": "arcturanskyeelmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_Skyeel"
+	},
+	{
 		"abr": "arm",
 		"price": 1333,
 		"category": "Natural",
@@ -743,12 +749,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AA_Cactipine"
-	},
-	{
-		"abr": "cactusmeat",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "AA_CactusMeat"
 	},
 	{
 		"abr": "caladbog(art)",
@@ -1856,7 +1856,7 @@
 	},
 	{
 		"abr": "eternityforge",
-		"price": 20000,
+		"price": -10,
 		"category": "Production",
 		"defname": "MedTimes_EternityForge"
 	},
@@ -2213,6 +2213,12 @@
 		"price": 2750,
 		"category": "Scrolls",
 		"defname": "SpellOf_Meteor"
+	},
+	{
+		"abr": "gigantelopemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_Gigantelope"
 	},
 	{
 		"abr": "gisarme",
@@ -2905,12 +2911,6 @@
 		"defname": "Liver"
 	},
 	{
-		"abr": "livingcactusskin",
-		"price": 6,
-		"category": "Leathers",
-		"defname": "Leather_Cactus"
-	},
-	{
 		"abr": "lizardskin",
 		"price": 3,
 		"category": "Leathers",
@@ -3185,6 +3185,12 @@
 		"price": 11500,
 		"category": "Legendary",
 		"defname": "MedTimes_Bracer_Marksman_Leg"
+	},
+	{
+		"abr": "mashedpomana",
+		"price": 0,
+		"category": "Vegetarian",
+		"defname": "TM_RawPomanaMash"
 	},
 	{
 		"abr": "meadwort",
@@ -3781,6 +3787,12 @@
 		"defname": "Leather_Plain"
 	},
 	{
+		"abr": "plantmeat",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "AA_CactusMeat"
+	},
+	{
 		"abr": "plantpot",
 		"price": 68,
 		"category": "Furniture",
@@ -3923,6 +3935,12 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Raccoon"
+	},
+	{
+		"abr": "radyakmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_Radyak"
 	},
 	{
 		"abr": "raptorshrimpmeat",
@@ -4171,6 +4189,12 @@
 		"defname": "Meat_AA_ArcticLionSalted"
 	},
 	{
+		"abr": "saltedarcturanskyeelmeat",
+		"price": 3,
+		"category": "Salted meat",
+		"defname": "Meat_AA_SkyeelSalted"
+	},
+	{
 		"abr": "saltedbearmeat",
 		"price": 3,
 		"category": "Salted meat",
@@ -4355,6 +4379,12 @@
 		"price": 3,
 		"category": "Salted meat",
 		"defname": "Meat_GazelleSalted"
+	},
+	{
+		"abr": "saltedgigantelopemeat",
+		"price": 3,
+		"category": "Salted meat",
+		"defname": "Meat_AA_GigantelopeSalted"
 	},
 	{
 		"abr": "saltedgreatdevourermeat",
@@ -4561,6 +4591,12 @@
 		"defname": "Meat_RaccoonSalted"
 	},
 	{
+		"abr": "saltedradyakmeat",
+		"price": 3,
+		"category": "Salted meat",
+		"defname": "Meat_AA_RadyakSalted"
+	},
+	{
 		"abr": "saltedraptorshrimpmeat",
 		"price": 3,
 		"category": "Salted meat",
@@ -4577,6 +4613,12 @@
 		"price": 3,
 		"category": "Salted meat",
 		"defname": "Meat_RhinocerosSalted"
+	},
+	{
+		"abr": "saltedsandlionmeat",
+		"price": 3,
+		"category": "Salted meat",
+		"defname": "Meat_AA_SandLionSalted"
 	},
 	{
 		"abr": "saltedsandsquidmeat",
@@ -4675,6 +4717,18 @@
 		"defname": "Meat_YorkshireTerrierSalted"
 	},
 	{
+		"abr": "sandlionfur",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "AA_SandLion_Leather"
+	},
+	{
+		"abr": "sandlionmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_SandLion"
+	},
+	{
 		"abr": "sandsquidmeat",
 		"price": 3,
 		"category": "Meat",
@@ -4763,6 +4817,12 @@
 		"price": 2,
 		"category": "Magic Items",
 		"defname": "SeedofRegrowth"
+	},
+	{
+		"abr": "sentientplantskin",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "Leather_Cactus"
 	},
 	{
 		"abr": "shelf",
@@ -4865,6 +4925,12 @@
 		"price": 1675,
 		"category": "Furniture",
 		"defname": "BoneThrone"
+	},
+	{
+		"abr": "skysteel",
+		"price": 4,
+		"category": "Raw resources",
+		"defname": "AA_SkySteel"
 	},
 	{
 		"abr": "slateblocks",
@@ -5222,7 +5288,7 @@
 	},
 	{
 		"abr": "tailoredsocks",
-		"price": 2,
+		"price": -10,
 		"category": "Footgear",
 		"defname": "MedTimes_Socks_Tailored"
 	},
@@ -5621,6 +5687,12 @@
 		"price": 8,
 		"category": "Magicyte",
 		"defname": "RawMagicyte"
+	},
+	{
+		"abr": "unrefineduraniumcrystals",
+		"price": 108,
+		"category": "Raw resources",
+		"defname": "AA_UraniumCrystals"
 	},
 	{
 		"abr": "uranium",
@@ -6949,12 +7021,6 @@
 		"defname": "MechSerumYouth"
 	},
 	{
-		"abr": "mashedpomana",
-		"price": 0,
-		"category": "Vegetarian",
-		"defname": "TM_RawPomanaMash"
-	},
-	{
 		"abr": "aerofleetmeat",
 		"price": 3,
 		"category": "Meat",
@@ -7195,5 +7261,5 @@
 		"defname": "Meat_TM_Dire_WolfR"
 	}
 	],
-	"total": 1199
+	"total": 1210
 }
