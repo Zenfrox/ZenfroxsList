@@ -61,11 +61,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "toxicfallout",
-		"price": 4200,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "volcanicwinter",
 		"price": 2600,
 		"karmatype": "Doom"
@@ -93,11 +88,6 @@
 	{
 		"abr": "animaltame",
 		"price": 150,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wandererjoins",
-		"price": 50,
 		"karmatype": "Good"
 	},
 	{
@@ -191,16 +181,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "yorkshireterriers",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "party",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "alphabeavers",
 		"price": 600,
 		"karmatype": "Bad"
@@ -257,12 +237,12 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "animal",
-		"price": 1500,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -272,7 +252,7 @@
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -406,5 +386,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 81
+	"total": 77
 }
