@@ -1,6 +1,16 @@
 {
 	"incitems" : [
 	{
+		"abr": "tornado",
+		"price": 800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "tornados",
+		"price": 2600,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -11,12 +21,17 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "vomitrain",
+		"price": 650,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "foggyrain",
 		"price": 300,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "clearweather",
+		"abr": "rainythunderstorm",
 		"price": 250,
 		"karmatype": "Neutral"
 	},
@@ -61,8 +76,18 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "shortcircuit",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "toxicfallout",
+		"price": 6500,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "volcanicwinter",
-		"price": 2600,
+		"price": 3200,
 		"karmatype": "Doom"
 	},
 	{
@@ -121,8 +146,13 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "maninblack",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "madanimal",
-		"price": 600,
+		"price": 200,
 		"karmatype": "Bad"
 	},
 	{
@@ -142,12 +172,12 @@
 	},
 	{
 		"abr": "herdmigration",
-		"price": 400,
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "farmanimals",
-		"price": 200,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -167,7 +197,7 @@
 	},
 	{
 		"abr": "travelergroup",
-		"price": 350,
+		"price": 80,
 		"karmatype": "Good"
 	},
 	{
@@ -178,6 +208,11 @@
 	{
 		"abr": "skillincrease",
 		"price": 200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "party",
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -221,8 +256,23 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "mechanoidraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "infestation",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "manhunterpack",
 		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "predators",
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -237,12 +287,12 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 5000,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "animal",
-		"price": 3000,
+		"abr": "pawn",
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -252,12 +302,12 @@
 	},
 	{
 		"abr": "trait",
-		"price": 2500,
+		"price": 3500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 3000,
+		"price": 5500,
 		"karmatype": "Good"
 	},
 	{
@@ -267,18 +317,28 @@
 	},
 	{
 		"abr": "prisoner",
-		"price": 1000,
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "dwarf",
-		"price": 1500,
+		"abr": "visitcolony",
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "uristbrigade",
+		"abr": "berescued",
 		"price": 900,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "torytalkervote",
+		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "taskforce141",
@@ -301,6 +361,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "bloodbowl",
+		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "cheesecat",
 		"price": 900,
 		"karmatype": "Good"
@@ -318,11 +383,6 @@
 	{
 		"abr": "mentalbreak",
 		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "terrierpack",
-		"price": 50,
 		"karmatype": "Bad"
 	},
 	{
@@ -386,5 +446,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 77
+	"total": 89
 }
