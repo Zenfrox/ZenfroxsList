@@ -1430,7 +1430,7 @@
 	},
 	{
 		"abr": "cowboyhat",
-		"price": 94,
+		"price": 300,
 		"category": "Headgear",
 		"defname": "Apparel_CowboyHat"
 	},
@@ -3075,7 +3075,7 @@
 	{
 		"abr": "grimoireoftheoccult",
 		"price": 33,
-		"category": "Books",
+		"category": "Items",
 		"defname": "Cults_Grimoire"
 	},
 	{
@@ -3512,7 +3512,7 @@
 	},
 	{
 		"abr": "iguana",
-		"price": 167,
+		"price": 300,
 		"category": "Animal",
 		"defname": "Iguana"
 	},
@@ -5552,7 +5552,7 @@
 	},
 	{
 		"abr": "rat",
-		"price": 58,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Rat"
 	},
@@ -7047,7 +7047,7 @@
 	{
 		"abr": "thekinginyellow",
 		"price": 33,
-		"category": "Books",
+		"category": "Items",
 		"defname": "Cults_TheKingInYellow"
 	},
 	{
@@ -7478,7 +7478,7 @@
 	},
 	{
 		"abr": "yorkshireterrier",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "YorkshireTerrier"
 	},
@@ -10487,7 +10487,421 @@
 		"price": 8,
 		"category": "Textiles",
 		"defname": "GR_WolfsnakeSkin"
+	},
+	{
+		"abr": "builderbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Builder_I_disabled"
+	},
+	{
+		"abr": "builderbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Builder_II_disabled"
+	},
+	{
+		"abr": "builderbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Builder_III_disabled"
+	},
+	{
+		"abr": "builderbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Builder_IV_disabled"
+	},
+	{
+		"abr": "builderbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Builder_V_disabled"
+	},
+	{
+		"abr": "builder(i)basestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_I"
+	},
+	{
+		"abr": "builder(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_II"
+	},
+	{
+		"abr": "builder(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_III"
+	},
+	{
+		"abr": "builder(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_IV"
+	},
+	{
+		"abr": "builder(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_V"
+	},
+	{
+		"abr": "cleanerbasestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner"
+	},
+	{
+		"abr": "cleaner(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_II"
+	},
+	{
+		"abr": "cleaner(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_III"
+	},
+	{
+		"abr": "cleaner(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_IV"
+	},
+	{
+		"abr": "cleaner(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_V"
+	},
+	{
+		"abr": "cleaningbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Cleaner_II_disabled"
+	},
+	{
+		"abr": "cleaningbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Cleaner_III_disabled"
+	},
+	{
+		"abr": "cleaningbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Cleaner_IV_disabled"
+	},
+	{
+		"abr": "cleaningbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Cleaner_V_disabled"
+	},
+	{
+		"abr": "cleaningbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Cleaner_disabled"
+	},
+	{
+		"abr": "crafterbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Crafter_I_disabled"
+	},
+	{
+		"abr": "crafterbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Crafter_II_disabled"
+	},
+	{
+		"abr": "crafterbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Crafter_III_disabled"
+	},
+	{
+		"abr": "crafterbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Crafter_IV_disabled"
+	},
+	{
+		"abr": "crafterbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Crafter_V_disabled"
+	},
+	{
+		"abr": "crafter(i)basestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_I"
+	},
+	{
+		"abr": "crafter(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_II"
+	},
+	{
+		"abr": "crafter(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_III"
+	},
+	{
+		"abr": "crafter(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_IV"
+	},
+	{
+		"abr": "crafter(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_V"
+	},
+	{
+		"abr": "erbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_ER_I_disabled"
+	},
+	{
+		"abr": "erbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_ER_II_disabled"
+	},
+	{
+		"abr": "erbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_ER_III_disabled"
+	},
+	{
+		"abr": "erbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_ER_IV_disabled"
+	},
+	{
+		"abr": "erbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_ER_V_disabled"
+	},
+	{
+		"abr": "er(i)basestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_I"
+	},
+	{
+		"abr": "er(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_II"
+	},
+	{
+		"abr": "er(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_III"
+	},
+	{
+		"abr": "er(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_IV"
+	},
+	{
+		"abr": "er(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_V"
+	},
+	{
+		"abr": "haulerbasestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler"
+	},
+	{
+		"abr": "hauler(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_II"
+	},
+	{
+		"abr": "hauler(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_III"
+	},
+	{
+		"abr": "hauler(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_IV"
+	},
+	{
+		"abr": "hauler(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_V"
+	},
+	{
+		"abr": "haulingbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Hauler_II_disabled"
+	},
+	{
+		"abr": "haulingbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Hauler_III_disabled"
+	},
+	{
+		"abr": "haulingbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Hauler_IV_disabled"
+	},
+	{
+		"abr": "haulingbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Hauler_V_disabled"
+	},
+	{
+		"abr": "haulingbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Hauler_disabled"
+	},
+	{
+		"abr": "kitchenbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Kitchen_I_disabled"
+	},
+	{
+		"abr": "kitchenbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Kitchen_II_disabled"
+	},
+	{
+		"abr": "kitchenbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Kitchen_III_disabled"
+	},
+	{
+		"abr": "kitchenbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Kitchen_IV_disabled"
+	},
+	{
+		"abr": "kitchenbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Kitchen_V_disabled"
+	},
+	{
+		"abr": "kitchen(i)basestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_I"
+	},
+	{
+		"abr": "kitchen(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_II"
+	},
+	{
+		"abr": "kitchen(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_III"
+	},
+	{
+		"abr": "kitchen(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_IV"
+	},
+	{
+		"abr": "kitchen(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_V"
+	},
+	{
+		"abr": "omni(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Omni_V"
+	},
+	{
+		"abr": "omnibot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "RPP_Bot_Omni_V_disabled"
+	},
+	{
+		"abr": "roboticcomponent",
+		"price": 333,
+		"category": "Items",
+		"defname": "RPP_Component"
+	},
+	{
+		"abr": "roboticmatrix(advanced)",
+		"price": 8817,
+		"category": "Items",
+		"defname": "RPP_Matrix_IV"
+	},
+	{
+		"abr": "roboticmatrix(anti-logic)",
+		"price": 17967,
+		"category": "Items",
+		"defname": "RPP_Matrix_V"
+	},
+	{
+		"abr": "roboticmatrix(basic)",
+		"price": 1825,
+		"category": "Items",
+		"defname": "RPP_Matrix_II"
+	},
+	{
+		"abr": "roboticmatrix(intermediate)",
+		"price": 4158,
+		"category": "Items",
+		"defname": "RPP_Matrix_III"
+	},
+	{
+		"abr": "roboticmatrix(simple)",
+		"price": 775,
+		"category": "Items",
+		"defname": "RPP_Matrix_I"
+	},
+	{
+		"abr": "roboticsworkbench",
+		"price": 1475,
+		"category": "Production",
+		"defname": "Table_RPP_RoboticsBench"
 	}
 	],
-	"total": 1748
+	"total": 1817
 }
