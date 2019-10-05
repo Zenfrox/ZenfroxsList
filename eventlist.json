@@ -87,7 +87,7 @@
 	},
 	{
 		"abr": "blight",
-		"price": 700,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -129,16 +129,6 @@
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "psychicdrone",
-		"price": 400,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "psychicsoothe",
-		"price": 250,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "ambrosiasprout",
@@ -206,17 +196,7 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 700,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "dropraid",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
@@ -227,11 +207,6 @@
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidraid",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
@@ -256,23 +231,18 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "pawn",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 5500,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -369,7 +339,27 @@
 		"abr": "baseattack",
 		"price": 1000,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "taskforce141",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "theghosts",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "umbracompany",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "MSF",
+		"price": 1500,
+		"karmatype": "Good"
 	}
 	],
-	"total": 74
+	"total": 72
 }
