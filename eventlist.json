@@ -1,6 +1,16 @@
 {
 	"incitems" : [
 	{
+		"abr": "tornado",
+		"price": 800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "tornados",
+		"price": 2600,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -61,13 +71,18 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "solarflare",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "shortcircuit",
 		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 15000,
+		"price": 6500,
 		"karmatype": "Doom"
 	},
 	{
@@ -87,7 +102,7 @@
 	},
 	{
 		"abr": "blight",
-		"price": 1000,
+		"price": 700,
 		"karmatype": "Bad"
 	},
 	{
@@ -129,6 +144,16 @@
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "psychicdrone",
+		"price": 400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "psychicsoothe",
+		"price": 250,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "ambrosiasprout",
@@ -196,7 +221,17 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "militaryaid",
+		"price": 700,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "raid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "dropraid",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
@@ -207,6 +242,16 @@
 	},
 	{
 		"abr": "siegeraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "mechanoidraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "infestation",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
@@ -231,18 +276,28 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "reviveanypawn",
+		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "pawn",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "trait",
-		"price": 2500,
+		"price": 3500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 2500,
+		"price": 5500,
 		"karmatype": "Good"
 	},
 	{
@@ -279,6 +334,26 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "taskforce141",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "theghosts",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "umbracompany",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "MSF",
+		"price": 1500,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "reversetraderequest",
@@ -339,27 +414,7 @@
 		"abr": "baseattack",
 		"price": 1000,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "taskforce141",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "theghosts",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "umbracompany",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "MSF",
-		"price": 1500,
-		"karmatype": "Good"
 	}
 	],
-	"total": 72
+	"total": 83
 }
