@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -68,11 +58,6 @@
 	{
 		"abr": "coldsnap",
 		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "solarflare",
-		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
@@ -227,7 +212,7 @@
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -276,11 +261,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "reviveanypawn",
-		"price": 1200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "pawn",
 		"price": 1500,
 		"karmatype": "Good"
@@ -292,12 +272,12 @@
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 5500,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -416,5 +396,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 83
+	"total": 79
 }
