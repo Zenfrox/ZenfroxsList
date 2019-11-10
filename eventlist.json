@@ -1,6 +1,16 @@
 {
 	"incitems" : [
 	{
+		"abr": "tornado",
+		"price": 800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "tornados",
+		"price": 2600,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -126,6 +136,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "maninblack",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -212,7 +227,7 @@
 	},
 	{
 		"abr": "raid",
-		"price": 2500,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -259,6 +274,11 @@
 		"abr": "disease",
 		"price": 1000,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "reviveanypawn",
+		"price": 1200,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "pawn",
@@ -314,26 +334,6 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "taskforce141",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "theghosts",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "umbracompany",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "MSF",
-		"price": 1500,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "reversetraderequest",
