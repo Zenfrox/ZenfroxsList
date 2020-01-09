@@ -71,6 +71,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "solarflare",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "shortcircuit",
 		"price": 500,
 		"karmatype": "Bad"
@@ -292,12 +297,12 @@
 	},
 	{
 		"abr": "trait",
-		"price": 1500,
+		"price": 3500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 2500,
+		"price": 5500,
 		"karmatype": "Good"
 	},
 	{
@@ -396,5 +401,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 79
+	"total": 80
 }
